@@ -1,1 +1,22 @@
+lead_id,first_name,last_name,email,phone,company,title,industry,company_size,source,date_added,initial_score
+L0001,Rajesh,Kumar,rajesh.kumar@techsolutions.com,+91-9876543210,Tech Solutions,CEO,SaaS,201-500,LinkedIn,2025-11-01,9
+L0002,Priya,Sharma,priya.s@innovlabs.com,+91-9876543211,Innov Labs,VP Sales,Fintech,51-200,Website,2025-10-28,8
+L0003,Amit,Patel,amit@digitalsystems.com,+91-9876543212,Digital Systems,CTO,IT Services,501-1000,Referral,2025-10-15,9
+L0004,Neha,Gupta,neha.gupta@cloudventures.com,+91-9876543213,Cloud Ventures,Product Manager,SaaS,11-50,Event,2025-11-05,7
+L0005,Vikram,Singh,vikram@smartanalytics.com,+91-9876543214,Smart Analytics,Director Sales,Healthcare,201-500,LinkedIn,2025-10-20,8
+L0006,Ananya,Roy,ananya.r@cybernetworks.com,+91-9876543215,Cyber Networks,VP Marketing,Cybersecurity,501-1000,Trade Show,2025-09-30,7
+L0007,Karan,Mehta,karan.mehta@fusiontech.com,+91-9876543216,Fusion Tech,CFO,E-commerce,1001-5000,Email Campaign,2025-11-10,9
+L0008,Sanjay,Verma,sanjay@matrixcorp.com,+91-9876543217,Matrix Corp,Sales Manager,Manufacturing,5000+,Cold Call,2025-10-25,6
+L0009,Pooja,Joshi,pooja.joshi@brightservices.com,+91-9876543218,Bright Services,Marketing Manager,Consulting,51-200,Partner,2025-11-12,5
+L0010,Rahul,Reddy,rahul@quantumsystems.com,+91-9876543219,Quantum Systems,Head of Sales,IT Services,201-500,LinkedIn,2025-10-18,8
+L0011,Rajesh,Kumar,r.kumar@techsolutions.in,09876543210,Tech Solutions,Chief Executive Officer,SaaS,201-500,Email Campaign,2025-11-03,9
+L0012,Sneha,Shah,sneha.shah@vertexlabs.com,+91-9876543220,Vertex Labs,Director IT,SaaS,11-50,Website,2025-10-22,7
+L0013,Arjun,Nair,arjun@apexenterprises.com,+91-9876543221,Apex Enterprises,General Manager,Retail,1001-5000,Referral,2025-09-28,6
+L0014,Deepak,Kulkarni,deepak.k@primeanalytics.com,+91-9876543222,Prime Analytics,VP Operations,BFSI,501-1000,LinkedIn,2025-11-08,8
+L0015,Kavita,Iyer,kavita@elitesolutions.com,+91-9876543223,Elite Solutions,Business Head,Healthcare,201-500,Event,2025-10-30,7
+L0016,Rohan,Menon,rohan.menon@omegaconsulting.com,+91-9876543224,Omega Consulting,Country Manager,Consulting,51-200,Partner,2025-11-11,8
+L0017,Meera,Desai,meera@alphaventures.com,+91-9876543225,Alpha Ventures,Head of Marketing,E-commerce,201-500,Trade Show,2025-10-12,6
+L0018,Aditya,Malhotra,aditya.m@dynamicsystems.com,+91-9876543226,Dynamic Systems,Sales Executive,IT Services,11-50,Cold Call,2025-11-06,4
+L0019,Divya,Chopra,divya@megacorp.com,+91-9876543227,Mega Corp,Regional Manager,Manufacturing,5000+,LinkedIn,2025-10-19,7
+L0020,Nikhil,Agarwal,nikhil.agarwal@ultratech.com,+91-9876543228,Ultra Tech,Director Sales,Fintech,501-1000,Website,2025-11-13,9
 
