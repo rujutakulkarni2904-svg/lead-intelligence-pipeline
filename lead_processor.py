@@ -9,16 +9,11 @@ def process_leads(df: pd.DataFrame, api_key: str) -> Dict:
     """
     
     try:
-        # Configure Gemini with correct API version
         genai.configure(api_key=api_key)
-        
-        # Use the correct model name for the current API
         model = genai.GenerativeModel('models/gemini-1.5-flash-latest')
         
-        # Prepare leads summary (first 20 for demo)
         leads_summary = df.head(20).to_csv(index=False)
         
-        # Create prompt
         prompt = f"""You are an expert B2B sales lead analyst. Analyze these leads and provide:
 
 1. LEAD SCORING (0-10 scale):
@@ -55,7 +50,6 @@ Return ONLY valid JSON in this exact format (no markdown, no extra text):
   ]
 }}"""
 
-        # Call Gemini API with generation config
         response = model.generate_content(
             prompt,
             generation_config=genai.types.GenerationConfig(
@@ -66,7 +60,6 @@ Return ONLY valid JSON in this exact format (no markdown, no extra text):
         
         response_text = response.text
         
-        # Extract JSON (handle markdown code blocks)
         if '```
             start_idx = response_text.find('```json') + 7
             end_idx = response_text.find('```
@@ -82,14 +75,12 @@ Return ONLY valid JSON in this exact format (no markdown, no extra text):
         
         analysis = json.loads(json_str)
         
-        # Enrich dataframe
         enriched_df = df.copy()
         enriched_df['ai_score'] = 0
         enriched_df['action'] = 'Pending analysis'
         enriched_df['is_duplicate'] = False
         enriched_df['ai_reason'] = ''
         
-        # Update with AI analysis
         for detail in analysis.get('lead_details', []):
             lead_id = detail['lead_id']
             if lead_id in enriched_df['lead_id'].values:
@@ -128,8 +119,8 @@ Return ONLY valid JSON in this exact format (no markdown, no extra text):
 def get_metrics_summary(total_leads: int) -> Dict:
     """Calculate ROI metrics"""
     
-    manual_time_per_lead = 15  # minutes
-    automated_time_per_lead = 0.1  # minutes
+    manual_time_per_lead = 15
+    automated_time_per_lead = 0.1
     
     manual_hours = (total_leads * manual_time_per_lead) / 60
     automated_hours = (total_leads * automated_time_per_lead) / 60
