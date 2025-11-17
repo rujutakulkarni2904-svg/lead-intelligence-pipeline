@@ -8,15 +8,16 @@ def process_leads(df: pd.DataFrame, api_key: str) -> Dict:
     Process leads using Google Gemini AI to enrich, score, and detect duplicates
     """
     
-    # Configure Gemini
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-pro')
-    
-    # Prepare leads summary (first 20 for demo)
-    leads_summary = df.head(20).to_csv(index=False)
-    
-    # Create prompt
-    prompt = f"""You are an expert B2B sales lead analyst. Analyze these leads and provide:
+    try:
+        # Configure Gemini
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel('gemini-pro')
+        
+        # Prepare leads summary (first 20 for demo)
+        leads_summary = df.head(20).to_csv(index=False)
+        
+        # Create prompt
+        prompt = f"""You are an expert B2B sales lead analyst. Analyze these leads and provide:
 
 1. LEAD SCORING (0-10 scale):
    - 9-10 = Hot (C-level executives, large companies, high-value industries like SaaS/Fintech)
@@ -52,7 +53,6 @@ Return ONLY valid JSON in this exact format:
   ]
 }}"""
 
-    try:
         # Call Gemini API
         response = model.generate_content(prompt)
         response_text = response.text
@@ -127,4 +127,3 @@ def get_metrics_summary(total_leads: int) -> Dict:
         'annual_savings': int(annual_savings),
         'speed_improvement': '150x faster'
     }
-
