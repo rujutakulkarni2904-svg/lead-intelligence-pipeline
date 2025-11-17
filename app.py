@@ -29,7 +29,7 @@ st.divider()
 with st.sidebar:
     st.header("⚙️ Configuration")
     api_key = st.text_input(
-        "Enter Claude API Key",
+        "Enter OpenAI API Key",
         type="password",
         help="Get your API key from console.anthropic.com"
     )
