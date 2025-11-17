@@ -1,3 +1,4 @@
 streamlit
 pandas
-google-ai-generativelanguage
+google-generativeai
+
