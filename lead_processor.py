@@ -9,9 +9,11 @@ def process_leads(df: pd.DataFrame, api_key: str) -> Dict:
     """
     
     try:
-        # Configure Gemini
+        # Configure Gemini with correct API version
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        
+        # Use the correct model name for the current API
+        model = genai.GenerativeModel('models/gemini-1.5-flash-latest')
         
         # Prepare leads summary (first 20 for demo)
         leads_summary = df.head(20).to_csv(index=False)
@@ -38,7 +40,7 @@ def process_leads(df: pd.DataFrame, api_key: str) -> Dict:
 Here are the leads in CSV format:
 {leads_summary}
 
-Return ONLY valid JSON in this exact format:
+Return ONLY valid JSON in this exact format (no markdown, no extra text):
 {{
   "hot_leads": 5,
   "warm_leads": 8,
@@ -53,14 +55,31 @@ Return ONLY valid JSON in this exact format:
   ]
 }}"""
 
-        # Call Gemini API
-        response = model.generate_content(prompt)
+        # Call Gemini API with generation config
+        response = model.generate_content(
+            prompt,
+            generation_config=genai.types.GenerationConfig(
+                temperature=0.7,
+                max_output_tokens=2048,
+            )
+        )
+        
         response_text = response.text
         
-        # Extract JSON
-        start_idx = response_text.find('{')
-        end_idx = response_text.rfind('}') + 1
-        json_str = response_text[start_idx:end_idx]
+        # Extract JSON (handle markdown code blocks)
+        if '```
+            start_idx = response_text.find('```json') + 7
+            end_idx = response_text.find('```
+            json_str = response_text[start_idx:end_idx].strip()
+        elif '```' in response_text:
+            start_idx = response_text.find('```
+            end_idx = response_text.find('```', start_idx)
+            json_str = response_text[start_idx:end_idx].strip()
+        else:
+            start_idx = response_text.find('{')
+            end_idx = response_text.rfind('}') + 1
+            json_str = response_text[start_idx:end_idx]
+        
         analysis = json.loads(json_str)
         
         # Enrich dataframe
