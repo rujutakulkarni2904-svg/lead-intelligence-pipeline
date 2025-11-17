@@ -11,7 +11,7 @@ def process_leads(df: pd.DataFrame, api_key: str) -> Dict:
     try:
         # Configure Gemini
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-pro')
+        model = genai.GenerativeModel('gemini-1.5-flash')
         
         # Prepare leads summary (first 20 for demo)
         leads_summary = df.head(20).to_csv(index=False)
