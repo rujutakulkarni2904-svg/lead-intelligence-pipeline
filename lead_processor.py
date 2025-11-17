@@ -1,19 +1,24 @@
-import google.generativeai as genai
+from openai import OpenAI
 import pandas as pd
 import json
 from typing import Dict
 
 def process_leads(df: pd.DataFrame, api_key: str) -> Dict:
     try:
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('models/gemini-1.5-flash-latest')
+        client = OpenAI(api_key=api_key)
         
         leads_summary = df.head(20).to_csv(index=False)
         
         prompt = "You are an expert B2B sales lead analyst. Analyze these leads and provide: 1. LEAD SCORING (0-10 scale): 9-10 = Hot (C-level executives), 7-8 = Warm (Directors/VPs), 5-6 = Cold (Managers), Below 5 = Not qualified. 2. DUPLICATE DETECTION: Identify duplicate contacts. 3. ACTION RECOMMENDATIONS. Return ONLY valid JSON with keys: hot_leads, warm_leads, cold_leads, not_qualified, duplicates_found, time_saved_hours, annual_roi_inr, lead_details (array with lead_id, score, action, reason, is_duplicate). Here are the leads: " + leads_summary
         
-        response = model.generate_content(prompt)
-        response_text = response.text
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.7,
+            max_tokens=2000
+        )
+        
+        response_text = response.choices[0].message.content
         
         start_idx = response_text.find('{')
         end_idx = response_text.rfind('}') + 1
