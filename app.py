@@ -31,7 +31,7 @@ with st.sidebar:
     api_key = st.text_input(
         "Enter OpenAI API Key",
         type="password",
-        help="Get your API key from console.anthropic.com"
+        help="Get your API key from platform.openai.com/api-keys"
     )
     
     st.divider()
