@@ -5,7 +5,7 @@ from typing import Dict
 
 def process_leads(df: pd.DataFrame, api_key: str) -> Dict:
     try:
-        client = OpenAI(api_key=api_key)
+        client = OpenAI(api_key=api_key, base_url="https://api.groq.com/openai/v1")
         
         leads_summary = df.head(20).to_csv(index=False)
         
