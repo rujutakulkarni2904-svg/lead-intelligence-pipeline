@@ -1,0 +1,1121 @@
+lead_id,first_name,last_name,email,phone,company,title,industry,company_size,source
+L0244,Rahul,Patel,rahul.patel@cybernetworks.com,+91-9876543279,Cyber Networks,Senior Consultant,Education,11-50,Trade Show
+L0102,Kunal,Malhotra,kunal.malhotra@alphaenterprises.com,+91-9876543070,Alpha Enterprises,Project Manager,Insurance,51-200,LinkedIn
+L0964,Tanya,Kapoor,tanya.kapoor@matrixcorp.com,+91-9876543676,Matrix Corp,Senior Consultant,Retail,1001-5000,Referral
+L1062,Neha,Kapoor,nkapoor@omegatech.com,+91-9876543620,Omega Tech,Sales Manager,Education,201-500,Trade Show
+L0523,Amit,Sharma,amit.sharma@matrixcorp.com,+91-9876543616,Matrix Corp,Director Marketing,SaaS,501-1000,Partner
+L0937,Tanya,Singh,tanya.singh@smartanalytics.com,+91-9876543463,Smart Analytics,Account Manager,Healthcare,201-500,Partner
+L0661,Siddharth,Shah,siddharth.shah@nextgensolutions.com,+91-9876543369,NextGen Solutions,Product Manager,E-commerce,5000+,Partner
+L0266,Rohan,Bansal,rohan.bansal@cybernetworks.com,+91-9876543558,Cyber Networks,Product Manager,Cybersecurity,1-10,Website
+L0129,Kavya,Gupta,kavya.gupta@deltasystems.com,+91-9876543705,Delta Systems,Product Manager,Retail,201-500,Cold Call
+L0297,Sanjay,Roy,sanjay.roy@nextgensolutions.com,+91-9876543956,NextGen Solutions,Operations Manager,Retail,51-200,Event
+L0741,Riya,Joshi,riya.joshi@matrixcorp.com,+91-9876543294,Matrix Corp,CFO,Manufacturing,1001-5000,Email Campaign
+L0089,Arjun,Reddy,arjun.reddy@betainnovations.com,+91-9876543873,Beta Innovations,Business Analyst,Education,1001-5000,Event
+L0381,Rajesh,Kumar,rajesh.kumar@zetaindustries.com,+91-9876543739,Zeta Industries,Director Operations,Education,51-200,LinkedIn
+L0482,Manish,Joshi,manish.joshi@cloudventures.com,+91-9876543789,Cloud Ventures,CEO,Cybersecurity,5000+,Trade Show
+L1110,Manish,Nair,manish.nair@alphaenterprises.com,+91-9876543041,Alpha Enterprises Inc,Director Marketing,Logistics,201-500,Event
+L0621,Priya,Patel,priya.patel@brightservices.com,+91-9876543670,Bright Services,Sales Manager,SaaS,1001-5000,Event
+L0433,Varun,Singh,varun.singh@sigmasolutions.com,+91-9876543392,Sigma Solutions,Business Analyst,IT Services,201-500,Referral
+L0045,Siddharth,Verma,siddharth.verma@betainnovations.com,+91-9876543122,Beta Innovations,Operations Manager,E-commerce,501-1000,LinkedIn
+L0680,Nisha,Khanna,nisha.khanna@digitalsystems.com,+91-9876543297,Digital Systems,CFO,Healthcare,1-10,Event
+L0762,Rajesh,Malhotra,rajesh.malhotra@cloudventures.com,+91-9876543359,Cloud Ventures,Finance Manager,E-commerce,501-1000,Referral
+L0110,Riya,Nair,riya.nair@epsiloncorp.com,+91-9876543458,Epsilon Corp,CEO,Fintech,51-200,Event
+L0114,Karan,Mehta,karan.mehta@epsiloncorp.com,+91-9876543283,Epsilon Corp,Operations Manager,Logistics,501-1000,Cold Call
+L0352,Kavya,Khanna,kavya.khanna@gammatechnologies.com,+91-9876543544,Gamma Technologies,HR Manager,Media,11-50,Event
+L0057,Amit,Singh,amit.singh@thetaanalytics.com,+91-9876543036,Theta Analytics,Marketing Manager,Real Estate,501-1000,Referral
+L1072,Ananyaa,Kapoor,ananya.kapoor@techsolutions.com,+91-9876543072,Tech Solutions,Director Operations,Logistics,5000+,Partner
+L0426,Divya,Kumar,divya.kumar@omegatech.com,+91-9876543904,Omega Tech,Director Sales,Consulting,501-1000,Trade Show
+L0534,Riya,Patel,riya.patel@alphaenterprises.com,+91-9876543262,Alpha Enterprises,VP Sales,Retail,1-10,LinkedIn
+L0679,Karan,Gupta,karan.gupta@cybernetworks.com,+91-9876543687,Cyber Networks,Operations Manager,Media,1-10,Partner
+L0814,Simran,Iyer,simran.iyer@innovlabs.com,+91-9876543843,Innov Labs,Finance Manager,Healthcare,501-1000,LinkedIn
+L0159,Aditya,Agarwal,aditya.agarwal@smartanalytics.com,+91-9876543237,Smart Analytics,Senior Consultant,Insurance,51-200,Partner
+L0524,Rajesh,Shah,rajesh.shah@omegatech.com,+91-9876543206,Omega Tech,VP Marketing,Cybersecurity,1001-5000,Referral
+L0362,Divya,Roy,divya.roy@thetaanalytics.com,+91-9876543484,Theta Analytics,Director Marketing,Media,11-50,Cold Call
+L0727,Gaurav,Bansal,gaurav.bansal@gammatechnologies.com,+91-9876543090,Gamma Technologies,CFO,Healthcare,11-50,Email Campaign
+L0618,Neha,Singh,neha.singh@innovlabs.com,+91-9876543965,Innov Labs,VP Engineering,Fintech,201-500,Partner
+L0329,Akash,Nair,akash.nair@cybernetworks.com,+91-9876543959,Cyber Networks,Product Manager,SaaS,1-10,Cold Call
+L0087,Sneha,Khanna,sneha.khanna@deltasystems.com,+91-9876543425,Delta Systems,CTO,E-commerce,5000+,Trade Show
+L1030,Neha,Patel,neha.patel@betainnovations.com,+91-9876543503,Beta Innovations,CFO,Real Estate,1001-5000,Event
+L0849,Divya,Joshi,divya.joshi@alphaenterprises.com,+91-9876543885,Alpha Enterprises,VP Sales,SaaS,51-200,Trade Show
+L0998,Neha,Nair,neha.nair@omegatech.com,+91-9876543818,Omega Tech,Finance Manager,E-commerce,1-10,Event
+L0424,Gaurav,Verma,gaurav.verma@zetaindustries.com,+91-9876543178,Zeta Industries,Account Manager,IT Services,51-200,Trade Show
+L0448,Sanjay,Singh,sanjay.singh@nextgensolutions.com,+91-9876543848,NextGen Solutions,Director Marketing,Logistics,5000+,Trade Show
+L0391,Siddharth,Khanna,siddharth.khanna@nextgensolutions.com,+91-9876543393,NextGen Solutions,VP Marketing,Logistics,1001-5000,Website
+L1114,Riya,Khanna,riya.khanna@alphaenterprises.com,+91-9876543112,Alpha Enterprises Inc,Product Manager,Media,1-10,Event
+L0480,Rahul,Roy,rahul.roy@cloudventures.com,+91-9876543012,Cloud Ventures,VP Marketing,Retail,1-10,Referral
+L0707,Pooja,Roy,pooja.roy@zetaindustries.com,+91-9876543981,Zeta Industries,HR Manager,Real Estate,501-1000,LinkedIn
+L0731,Varun,Roy,varun.roy@innovlabs.com,+91-9876543368,Innov Labs,Director Marketing,Insurance,1-10,Referral
+L0992,Aditya,Khanna,aditya.khanna@deltasystems.com,+91-9876543989,Delta Systems,CEO,SaaS,51-200,LinkedIn
+L0786,Rajesh,Singh,rajesh.singh@innovlabs.com,+91-9876543992,Innov Labs,Account Manager,SaaS,11-50,Website
+L0097,Varun,Singh,varun.singh@matrixcorp.com,+91-9876543129,Matrix Corp,Team Lead,Insurance,1-10,Event
+L0668,Manish,Singh,manish.singh@techsolutions.com,+91-9876543470,Tech Solutions,Sales Manager,SaaS,1-10,Website
+L0813,Gaurav,Patel,gaurav.patel@deltasystems.com,+91-9876543820,Delta Systems,CTO,Cybersecurity,501-1000,Trade Show
+L0532,Gaurav,Nair,gaurav.nair@smartanalytics.com,+91-9876543339,Smart Analytics,CFO,E-commerce,51-200,Email Campaign
+L1055,Varun,Sharma,varun.s@alphaenterprises.com,+91-9876543974,Alpha Enterprises,CEO,Consulting,11-50,Event
+L0322,Gaurav,Chopra,gaurav.chopra@brightservices.com,+91-9876543765,Bright Services,Team Lead,E-commerce,11-50,Cold Call
+L0052,Anjali,Singh,anjali.singh@brightservices.com,+91-9876543118,Bright Services,VP Sales,Retail,501-1000,Referral
+L0319,Riya,Nair,riya.nair@nextgensolutions.com,+91-9876543491,NextGen Solutions,Marketing Manager,Education,5000+,Cold Call
+L0309,Ishita,Shah,ishita.shah@zetaindustries.com,+91-9876543848,Zeta Industries,Project Manager,Education,201-500,Cold Call
+L0071,Sneha,Kapoor,sneha.kapoor@quantumsystems.com,+91-9876543567,Quantum Systems,VP Marketing,E-commerce,201-500,Trade Show
+L0874,Kavya,Roy,kavya.roy@gammatechnologies.com,+91-9876543301,Gamma Technologies,Finance Manager,SaaS,1001-5000,Referral
+L1111,Sanjay,Desai,sanjay.desai@techsolutions.com,+91-9876543045,Technologies Solutions,CEO,E-commerce,1-10,Partner
+L0549,Akash,Khanna,akash.khanna@gammatechnologies.com,+91-9876543994,Gamma Technologies,Operations Manager,E-commerce,501-1000,LinkedIn
+L0200,Vikram,Nair,vikram.nair@matrixcorp.com,+91-9876543867,Matrix Corp,VP Sales,Cybersecurity,5000+,Email Campaign
+L1102,Vikram,Sharma,vikram.sharma@alphaenterprises.com,+91-9876543559,Alpha Enterprises Ltd,Sales Manager,Media,1001-5000,Referral
+L0175,Nisha,Patel,nisha.patel@deltasystems.com,+91-9876543931,Delta Systems,Product Manager,Insurance,201-500,Website
+L0543,Vikram,Sharma,vikram.sharma@alphaenterprises.com,+91-9876543003,Alpha Enterprises,Business Analyst,Fintech,51-200,Partner
+L0310,Aditya,Kumar,aditya.kumar@alphaenterprises.com,+91-9876543339,Alpha Enterprises,VP Sales,Manufacturing,501-1000,Cold Call
+L0645,Riya,Gupta,riya.gupta@alphaenterprises.com,+91-9876543575,Alpha Enterprises,Team Lead,Real Estate,501-1000,Trade Show
+L0882,Rahul,Roy,rahul.roy@cloudventures.com,+91-9876543920,Cloud Ventures,VP Marketing,E-commerce,1-10,Cold Call
+L0332,Sneha,Roy,sneha.roy@deltasystems.com,+91-9876543663,Delta Systems,Director Operations,Retail,11-50,LinkedIn
+L0866,Aditya,Nair,aditya.nair@smartanalytics.com,+91-9876543167,Smart Analytics,Director Sales,E-commerce,1-10,Trade Show
+L0851,Ananya,Mehta,ananya.mehta@zetaindustries.com,+91-9876543989,Zeta Industries,Senior Consultant,Education,1001-5000,LinkedIn
+L0372,Tanya,Shah,tanya.shah@fusiontech.com,+91-9876543379,Fusion Tech,Sales Manager,Manufacturing,1-10,Event
+L0337,Pooja,Iyer,pooja.iyer@matrixcorp.com,+91-9876543063,Matrix Corp,VP Sales,Consulting,51-200,Referral
+L0550,Simran,Kapoor,simran.kapoor@zetaindustries.com,+91-9876543428,Zeta Industries,Account Manager,Insurance,5000+,Partner
+L0032,Meera,Verma,meera.verma@brightservices.com,+91-9876543685,Bright Services,Team Lead,E-commerce,501-1000,Referral
+L0586,Siddharth,Shah,siddharth.shah@digitalsystems.com,+91-9876543227,Digital Systems,Marketing Manager,E-commerce,1001-5000,Cold Call
+L0969,Neha,Khanna,neha.khanna@alphaenterprises.com,+91-9876543979,Alpha Enterprises,Business Analyst,Real Estate,1001-5000,Cold Call
+L0754,Aditya,Malhotra,aditya.malhotra@fusiontech.com,+91-9876543429,Fusion Tech,Marketing Manager,Cybersecurity,5000+,Trade Show
+L0582,Nisha,Nair,nisha.nair@quantumsystems.com,+91-9876543265,Quantum Systems,Business Analyst,Manufacturing,201-500,LinkedIn
+L0345,Kavya,Agarwal,kavya.agarwal@innovlabs.com,+91-9876543572,Innov Labs,Senior Consultant,Insurance,5000+,Cold Call
+L0483,Pooja,Desai,pooja.desai@digitalsystems.com,+91-9876543269,Digital Systems,Operations Manager,Insurance,1-10,Partner
+L0324,Sanjay,Sharma,sanjay.sharma@zetaindustries.com,+91-9876543231,Zeta Industries,Director Marketing,SaaS,1-10,Trade Show
+L0867,Tanya,Kumar,tanya.kumar@brightservices.com,+91-9876543973,Bright Services,Business Analyst,E-commerce,1001-5000,Event
+L0157,Rohan,Singh,rohan.singh@matrixcorp.com,+91-9876543543,Matrix Corp,Business Analyst,Real Estate,1001-5000,Referral
+L0662,Kunal,Kumar,kunal.kumar@cloudventures.com,+91-9876543684,Cloud Ventures,Marketing Manager,Consulting,11-50,Event
+L0944,Kunal,Kapoor,kunal.kapoor@alphaenterprises.com,+91-9876543860,Alpha Enterprises,Business Analyst,IT Services,51-200,Referral
+L0446,Riya,Reddy,riya.reddy@quantumsystems.com,+91-9876543586,Quantum Systems,Director Operations,Media,501-1000,Website
+L0505,Siddharth,Reddy,siddharth.reddy@brightservices.com,+91-9876543839,Bright Services,VP Engineering,SaaS,201-500,Partner
+L0366,Priya,Joshi,priya.joshi@betainnovations.com,+91-9876543689,Beta Innovations,Finance Manager,Real Estate,1-10,Website
+L0334,Simran,Malhotra,simran.malhotra@zetaindustries.com,+91-9876543335,Zeta Industries,CFO,Manufacturing,1001-5000,Website
+L1003,Sneha,Kumar,sneha.kumar@epsiloncorp.com,+91-9876543871,Epsilon Corp,Sales Manager,IT Services,201-500,Trade Show
+L0328,Gaurav,Roy,gaurav.roy@gammatechnologies.com,+91-9876543903,Gamma Technologies,VP Engineering,SaaS,5000+,Trade Show
+L0732,Amit,Joshi,amit.joshi@betainnovations.com,+91-9876543361,Beta Innovations,HR Manager,Manufacturing,501-1000,Event
+L0011,Riya,Patel,riya.patel@omegatech.com,+91-9876543650,Omega Tech,VP Engineering,Education,1001-5000,Event
+L0355,Neha,Bansal,neha.bansal@innovlabs.com,+91-9876543457,Innov Labs,Finance Manager,Insurance,1001-5000,LinkedIn
+L0293,Aditya,Chopra,aditya.chopra@fusiontech.com,+91-9876543348,Fusion Tech,Finance Manager,IT Services,51-200,Email Campaign
+L0971,Kavya,Verma,kavya.verma@sigmasolutions.com,+91-9876543788,Sigma Solutions,Director Sales,Education,51-200,Referral
+L0193,Neha,Gupta,neha.gupta@thetaanalytics.com,+91-9876543738,Theta Analytics,Director Sales,Manufacturing,201-500,Event
+L0782,Simran,Kapoor,simran.kapoor@matrixcorp.com,+91-9876543269,Matrix Corp,CFO,Manufacturing,1001-5000,Event
+L0498,Nisha,Kapoor,nisha.kapoor@digitalsystems.com,+91-9876543606,Digital Systems,Operations Manager,SaaS,201-500,Referral
+L0772,Amit,Kapoor,amit.kapoor@quantumsystems.com,+91-9876543234,Quantum Systems,Director Marketing,Retail,51-200,Partner
+L0210,Karan,Reddy,karan.reddy@fusiontech.com,+91-9876543785,Fusion Tech,VP Marketing,Logistics,51-200,Cold Call
+L0818,Tanya,Agarwal,tanya.agarwal@alphaenterprises.com,+91-9876543690,Alpha Enterprises,Senior Consultant,Retail,1001-5000,Trade Show
+L0693,Siddharth,Verma,siddharth.verma@omegatech.com,+91-9876543700,Omega Tech,VP Engineering,Logistics,501-1000,Referral
+L0704,Akash,Shah,akash.shah@cloudventures.com,+91-9876543493,Cloud Ventures,Team Lead,Consulting,11-50,Referral
+L0761,Pooja,Iyer,pooja.iyer@alphaenterprises.com,+91-9876543573,Alpha Enterprises,Account Manager,Logistics,51-200,Email Campaign
+L0896,Meera,Nair,meera.nair@epsiloncorp.com,+91-9876543827,Epsilon Corp,VP Engineering,Real Estate,11-50,Cold Call
+L0290,Nisha,Mehta,nisha.mehta@sigmasolutions.com,+91-9876543426,Sigma Solutions,Finance Manager,Insurance,1-10,Partner
+L0343,Ananya,Shah,ananya.shah@zetaindustries.com,+91-9876543452,Zeta Industries,VP Sales,Insurance,11-50,Partner
+L0050,Anjali,Verma,anjali.verma@alphaenterprises.com,+91-9876543291,Alpha Enterprises,VP Engineering,Consulting,5000+,Cold Call
+L0108,Arjun,Joshi,arjun.joshi@nextgensolutions.com,+91-9876543286,NextGen Solutions,Finance Manager,Retail,51-200,LinkedIn
+L0060,Tanya,Khanna,tanya.khanna@gammatechnologies.com,+91-9876543997,Gamma Technologies,Finance Manager,Retail,11-50,Event
+L0292,Rahul,Chopra,rahul.chopra@digitalsystems.com,+91-9876543705,Digital Systems,CTO,IT Services,201-500,Trade Show
+L0746,Varun,Kumar,varun.kumar@thetaanalytics.com,+91-9876543980,Theta Analytics,CTO,Media,201-500,Email Campaign
+L0775,Vikram,Khanna,vikram.khanna@cybernetworks.com,+91-9876543605,Cyber Networks,Finance Manager,Consulting,1001-5000,Trade Show
+L0431,Gaurav,Bansal,gaurav.bansal@sigmasolutions.com,+91-9876543086,Sigma Solutions,VP Marketing,Cybersecurity,1-10,Event
+L0751,Sneha,Kumar,sneha.kumar@techsolutions.com,+91-9876543690,Tech Solutions,Director Sales,Manufacturing,501-1000,Website
+L0414,Amit,Chopra,amit.chopra@omegatech.com,+91-9876543490,Omega Tech,Operations Manager,Manufacturing,501-1000,Trade Show
+L0449,Aditya,Singh,aditya.singh@sigmasolutions.com,+91-9876543647,Sigma Solutions,Director Operations,Insurance,201-500,Trade Show
+L0024,Kunal,Desai,kunal.desai@techsolutions.com,+91-9876543613,Tech Solutions,Sales Manager,Consulting,1-10,Website
+L0232,Vikram,Bansal,vikram.bansal@digitalsystems.com,+91-9876543317,Digital Systems,Account Manager,Manufacturing,1001-5000,Email Campaign
+L0514,Pooja,Kapoor,pooja.kapoor@smartanalytics.com,+91-9876543429,Smart Analytics,Director Sales,Insurance,5000+,Event
+L0544,Karan,Gupta,karan.gupta@techsolutions.com,+91-9876543211,Tech Solutions,VP Engineering,Insurance,51-200,Website
+L0591,Nikhil,Roy,nikhil.roy@digitalsystems.com,+91-9876543499,Digital Systems,Sales Manager,Insurance,11-50,Email Campaign
+L0275,Gaurav,Khanna,gaurav.khanna@cloudventures.com,+91-9876543268,Cloud Ventures,Director Operations,Retail,201-500,Event
+L0199,Rahul,Bansal,rahul.bansal@quantumsystems.com,+91-9876543360,Quantum Systems,VP Sales,Real Estate,501-1000,Event
+L1085,Snehaa,Mehta,sneha.mehta@fusiontech.com,+91-9876543465,Fusion Tech,Account Manager,Retail,1001-5000,Cold Call
+L0942,Rohan,Agarwal,rohan.agarwal@betainnovations.com,+91-9876543640,Beta Innovations,Sales Manager,Retail,201-500,Trade Show
+L0084,Nisha,Verma,nisha.verma@brightservices.com,+91-9876543450,Bright Services,CFO,Retail,51-200,Event
+L0520,Arjun,Roy,arjun.roy@cybernetworks.com,+91-9876543242,Cyber Networks,Operations Manager,Cybersecurity,5000+,Email Campaign
+L0540,Rohan,Roy,rohan.roy@omegatech.com,+91-9876543911,Omega Tech,Business Analyst,IT Services,1-10,Website
+L0274,Sanjay,Gupta,sanjay.gupta@techsolutions.com,+91-9876543753,Tech Solutions,VP Engineering,Consulting,501-1000,Trade Show
+L0287,Pooja,Mehta,pooja.mehta@thetaanalytics.com,+91-9876543281,Theta Analytics,VP Marketing,Insurance,51-200,Website
+L0406,Rahul,Kumar,rahul.kumar@betainnovations.com,+91-9876543340,Beta Innovations,Finance Manager,Manufacturing,5000+,Email Campaign
+L0436,Simran,Kapoor,simran.kapoor@thetaanalytics.com,+91-9876543517,Theta Analytics,Team Lead,Manufacturing,1001-5000,Partner
+L1002,Siddharth,Shah,siddharth.shah@nextgensolutions.com,+91-9876543369,NextGen Solutions,Product Manager,E-commerce,5000+,Referral
+L0077,Sanjay,Nair,sanjay.nair@omegatech.com,+91-9876543870,Omega Tech,CFO,Consulting,201-500,Event
+L0957,Riya,Bansal,riya.bansal@quantumsystems.com,+91-9876543744,Quantum Systems,Operations Manager,Healthcare,1-10,Partner
+L0139,Nisha,Chopra,nisha.chopra@innovlabs.com,+91-9876543208,Innov Labs,Director Operations,Education,11-50,Cold Call
+L0221,Siddharth,Agarwal,siddharth.agarwal@omegatech.com,+91-9876543330,Omega Tech,Sales Manager,IT Services,201-500,Website
+L0584,Gaurav,Iyer,gaurav.iyer@zetaindustries.com,+91-9876543307,Zeta Industries,VP Engineering,Media,1001-5000,Referral
+L0307,Riya,Shah,riya.shah@epsiloncorp.com,+91-9876543531,Epsilon Corp,Senior Consultant,IT Services,501-1000,Referral
+L0295,Sneha,Verma,sneha.verma@deltasystems.com,+91-9876543125,Delta Systems,Director Operations,Consulting,11-50,Referral
+L0142,Kavya,Gupta,kavya.gupta@smartanalytics.com,+91-9876543510,Smart Analytics,Product Manager,Education,1001-5000,Cold Call
+L0653,Simran,Verma,simran.verma@alphaenterprises.com,+91-9876543773,Alpha Enterprises,Operations Manager,Education,1001-5000,Event
+L0567,Vikram,Desai,vikram.desai@sigmasolutions.com,+91-9876543029,Sigma Solutions,VP Engineering,E-commerce,5000+,Event
+L0705,Nisha,Malhotra,nisha.malhotra@techsolutions.com,+91-9876543249,Tech Solutions,CTO,IT Services,501-1000,Referral
+L0140,Kavya,Nair,kavya.nair@cloudventures.com,+91-9876543029,Cloud Ventures,Finance Manager,Logistics,11-50,Referral
+L0594,Nisha,Malhotra,nisha.malhotra@betainnovations.com,+91-9876543439,Beta Innovations,Team Lead,Manufacturing,1-10,LinkedIn
+L0463,Neha,Shah,neha.shah@alphaenterprises.com,+91-9876543902,Alpha Enterprises,Product Manager,IT Services,201-500,Referral
+L0821,Nikhil,Iyer,nikhil.iyer@gammatechnologies.com,+91-9876543782,Gamma Technologies,Business Analyst,Media,1001-5000,Email Campaign
+L0486,Sanjay,Desai,sanjay.desai@techsolutions.com,+91-9876543045,Tech Solutions,CEO,E-commerce,1-10,Partner
+L1080,Manish,Roy,manish.roy@techsolutions.com,+91-9876543204,Tech Solutions,Marketing Manager,Logistics,501-1000,Event
+L0912,Tanya,Shah,tanya.shah@smartanalytics.com,+91-9876543787,Smart Analytics,VP Sales,Media,501-1000,Referral
+L0389,Ananya,Shah,ananya.shah@techsolutions.com,+91-9876543984,Tech Solutions,Director Sales,Real Estate,11-50,Trade Show
+L1042,Meera,Kapoor,meera.k@zetaindustries.com,+91-9876543626,Zeta Industries,VP Engineering,Manufacturing,501-1000,Trade Show
+L0599,Rohan,Singh,rohan.singh@nextgensolutions.com,+91-9876543923,NextGen Solutions,Team Lead,Cybersecurity,5000+,Event
+L0434,Kunal,Roy,kunal.roy@epsiloncorp.com,+91-9876543295,Epsilon Corp,VP Marketing,IT Services,51-200,Partner
+L0722,Tanya,Mehta,tanya.mehta@gammatechnologies.com,+91-9876543565,Gamma Technologies,Account Manager,Consulting,11-50,Email Campaign
+L0960,Pooja,Singh,pooja.singh@omegatech.com,+91-9876543287,Omega Tech,Director Operations,Media,51-200,LinkedIn
+L0179,Pooja,Sharma,pooja.sharma@alphaenterprises.com,+91-9876543222,Alpha Enterprises,Senior Consultant,Consulting,11-50,Email Campaign
+L0558,Gaurav,Gupta,gaurav.gupta@sigmasolutions.com,+91-9876543798,Sigma Solutions,VP Sales,Logistics,51-200,Email Campaign
+L0689,Manish,Patel,manish.patel@techsolutions.com,+91-9876543869,Tech Solutions,Project Manager,Insurance,1-10,Trade Show
+L0781,Rohan,Khanna,rohan.khanna@gammatechnologies.com,+91-9876543404,Gamma Technologies,Director Marketing,IT Services,1001-5000,Trade Show
+L0079,Anjali,Gupta,anjali.gupta@gammatechnologies.com,+91-9876543224,Gamma Technologies,VP Engineering,Logistics,1001-5000,Partner
+L1046,Simran,Gupta,sgupta@zetaindustries.com,+91-9876543156,Zeta Industries,Product Manager,IT Services,11-50,Email Campaign
+L1051,Anjali,Khanna,anjali.k@quantumsystems.com,+91-9876543657,Quantum Systems,Product Manager,Consulting,11-50,Trade Show
+L0828,Ishita,Kapoor,ishita.kapoor@sigmasolutions.com,+91-9876543939,Sigma Solutions,Director Sales,Retail,1-10,Email Campaign
+L0888,Sneha,Patel,sneha.patel@innovlabs.com,+91-9876543111,Innov Labs,Business Analyst,IT Services,11-50,Cold Call
+L0528,Akash,Nair,akash.nair@nextgensolutions.com,+91-9876543178,NextGen Solutions,Account Manager,Retail,501-1000,Email Campaign
+L0723,Kunal,Khanna,kunal.khanna@epsiloncorp.com,+91-9876543259,Epsilon Corp,Product Manager,Real Estate,51-200,Trade Show
+L0040,Ananya,Kapoor,ananya.kapoor@techsolutions.com,+91-9876543399,Tech Solutions,Director Operations,Logistics,5000+,Partner
+L0031,Riya,Sharma,riya.sharma@matrixcorp.com,+91-9876543069,Matrix Corp,CTO,Media,51-200,Website
+L0999,Rohan,Shah,rohan.shah@betainnovations.com,+91-9876543332,Beta Innovations,VP Sales,Insurance,501-1000,Referral
+L0137,Neha,Kapoor,neha.kapoor@zetaindustries.com,+91-9876543844,Zeta Industries,CEO,Insurance,5000+,Partner
+L0055,Simran,Joshi,simran.joshi@innovlabs.com,+91-9876543003,Innov Labs,Sales Manager,Logistics,11-50,Cold Call
+L0834,Vikram,Sharma,vikram.sharma@betainnovations.com,+91-9876543994,Beta Innovations,Senior Consultant,Logistics,501-1000,Website
+L0300,Priya,Sharma,priya.sharma@quantumsystems.com,+91-9876543506,Quantum Systems,Finance Manager,Media,1001-5000,Partner
+L0515,Nisha,Khanna,nisha.khanna@techsolutions.com,+91-9876543391,Tech Solutions,Marketing Manager,Consulting,501-1000,Partner
+L0982,Priya,Patel,priya.patel@digitalsystems.com,+91-9876543585,Digital Systems,Director Operations,Logistics,201-500,LinkedIn
+L0335,Ananya,Singh,ananya.singh@epsiloncorp.com,+91-9876543331,Epsilon Corp,Director Marketing,SaaS,51-200,Trade Show
+L1089,Nikhila,Reddy,nikhil.reddy@techsolutions.com,+91-9876543207,Tech Solutions,VP Sales,Healthcare,201-500,Partner
+L0004,Riya,Khanna,riya.khanna@gammatechnologies.com,+91-9876543225,Gamma Technologies,Senior Consultant,Real Estate,51-200,LinkedIn
+L0412,Akash,Reddy,akash.reddy@digitalsystems.com,+91-9876543838,Digital Systems,Business Analyst,Insurance,201-500,Referral
+L0539,Kunal,Patel,kunal.patel@nextgensolutions.com,+91-9876543608,NextGen Solutions,Finance Manager,Consulting,1001-5000,LinkedIn
+L1088,Meera,Mehta,meera.mehta@digitalsystems.com,+91-9876543367,Digital Systems,Business Analyst,Consulting,501-1000,Event
+L0838,Kunal,Mehta,kunal.mehta@epsiloncorp.com,+91-9876543404,Epsilon Corp,Operations Manager,E-commerce,501-1000,Event
+L0758,Vikram,Desai,vikram.desai@thetaanalytics.com,+91-9876543737,Theta Analytics,Sales Manager,Logistics,201-500,Cold Call
+L0810,Ananya,Sharma,ananya.sharma@fusiontech.com,+91-9876543109,Fusion Tech,Team Lead,E-commerce,1-10,LinkedIn
+L0903,Nisha,Singh,nisha.singh@epsiloncorp.com,+91-9876543159,Epsilon Corp,Senior Consultant,Media,501-1000,Email Campaign
+L0211,Sneha,Gupta,sneha.gupta@techsolutions.com,+91-9876543509,Tech Solutions,Business Analyst,IT Services,11-50,Trade Show
+L0059,Anjali,Iyer,anjali.iyer@fusiontech.com,+91-9876543698,Fusion Tech,Director Marketing,Insurance,1-10,Email Campaign
+L1101,Riya,Chopra,riya.chopra@innovlabs.com,+91-9876543300,Innov Labs Inc,Director Sales,SaaS,5000+,Event
+L0245,Amit,Verma,amit.verma@deltasystems.com,+91-9876543905,Delta Systems,Marketing Manager,SaaS,201-500,LinkedIn
+L0064,Rahul,Verma,rahul.verma@matrixcorp.com,+91-9876543024,Matrix Corp,Director Sales,Manufacturing,51-200,Cold Call
+L0569,Pooja,Iyer,pooja.iyer@deltasystems.com,+91-9876543517,Delta Systems,HR Manager,Insurance,1-10,LinkedIn
+L0360,Kunal,Nair,kunal.nair@innovlabs.com,+91-9876543995,Innov Labs,Marketing Manager,Insurance,1001-5000,Trade Show
+L0378,Simran,Sharma,simran.sharma@techsolutions.com,+91-9876543422,Tech Solutions,VP Marketing,Media,1001-5000,Event
+L0101,Nikhil,Bansal,nikhil.bansal@cloudventures.com,+91-9876543815,Cloud Ventures,Operations Manager,Logistics,1-10,Email Campaign
+L0169,Akash,Khanna,akash.khanna@alphaenterprises.com,+91-9876543543,Alpha Enterprises,Project Manager,Healthcare,5000+,Referral
+L0552,Meera,Agarwal,meera.agarwal@zetaindustries.com,+91-9876543819,Zeta Industries,Operations Manager,Insurance,501-1000,Referral
+L0368,Rahul,Kumar,rahul.kumar@fusiontech.com,+91-9876543959,Fusion Tech,Director Sales,Retail,1-10,Partner
+L1040,Riya,Khanna,riya.k@fusiontech.com,+91-9876543205,Fusion Tech,Director Sales,Real Estate,1001-5000,Cold Call
+L0537,Ananya,Chopra,ananya.chopra@digitalsystems.com,+91-9876543818,Digital Systems,CTO,Healthcare,1-10,Email Campaign
+L0914,Gaurav,Sharma,gaurav.sharma@omegatech.com,+91-9876543892,Omega Tech,CFO,Cybersecurity,201-500,LinkedIn
+L0891,Simran,Patel,simran.patel@gammatechnologies.com,+91-9876543863,Gamma Technologies,Account Manager,Fintech,51-200,Partner
+L0278,Kunal,Khanna,kunal.khanna@quantumsystems.com,+91-9876543912,Quantum Systems,Product Manager,Media,11-50,Referral
+L0209,Meera,Reddy,meera.reddy@innovlabs.com,+91-9876543225,Innov Labs,HR Manager,Real Estate,1-10,LinkedIn
+L0458,Pooja,Patel,pooja.patel@alphaenterprises.com,+91-9876543680,Alpha Enterprises,VP Engineering,SaaS,201-500,Cold Call
+L0395,Rohan,Roy,rohan.roy@sigmasolutions.com,+91-9876543676,Sigma Solutions,HR Manager,Fintech,5000+,Cold Call
+L0248,Priya,Reddy,priya.reddy@epsiloncorp.com,+91-9876543712,Epsilon Corp,VP Marketing,Logistics,1001-5000,Partner
+L0067,Varun,Malhotra,varun.malhotra@alphaenterprises.com,+91-9876543746,Alpha Enterprises,Sales Manager,Manufacturing,501-1000,Website
+L0917,Siddharth,Gupta,siddharth.gupta@brightservices.com,+91-9876543152,Bright Services,VP Engineering,Healthcare,1-10,LinkedIn
+L0068,Divya,Agarwal,divya.agarwal@fusiontech.com,+91-9876543260,Fusion Tech,CTO,Retail,201-500,LinkedIn
+L0219,Sanjay,Gupta,sanjay.gupta@smartanalytics.com,+91-9876543262,Smart Analytics,Director Sales,IT Services,501-1000,Referral
+L1044,Kavya,Chopra,kchopra@quantumsystems.com,+91-9876543880,Quantum Systems,Operations Manager,Manufacturing,51-200,LinkedIn
+L0013,Simran,Sharma,simran.sharma@matrixcorp.com,+91-9876543841,Matrix Corp,CTO,Logistics,51-200,Trade Show
+L0854,Akash,Sharma,akash.sharma@brightservices.com,+91-9876543899,Bright Services,HR Manager,Media,1-10,Cold Call
+L0559,Anjali,Malhotra,anjali.malhotra@brightservices.com,+91-9876543392,Bright Services,Team Lead,Real Estate,501-1000,Partner
+L0479,Priya,Verma,priya.verma@digitalsystems.com,+91-9876543946,Digital Systems,Business Analyst,Fintech,201-500,LinkedIn
+L0880,Priya,Roy,priya.roy@nextgensolutions.com,+91-9876543579,NextGen Solutions,VP Marketing,IT Services,5000+,Referral
+L0637,Tanya,Chopra,tanya.chopra@deltasystems.com,+91-9876543674,Delta Systems,Operations Manager,Education,11-50,Partner
+L0846,Kunal,Nair,kunal.nair@omegatech.com,+91-9876543747,Omega Tech,VP Marketing,Retail,1001-5000,LinkedIn
+L0773,Nisha,Singh,nisha.singh@smartanalytics.com,+91-9876543539,Smart Analytics,VP Engineering,SaaS,1-10,Email Campaign
+L0185,Siddharth,Kumar,siddharth.kumar@smartanalytics.com,+91-9876543015,Smart Analytics,Marketing Manager,Logistics,5000+,Event
+L0713,Anjali,Khanna,anjali.khanna@zetaindustries.com,+91-9876543770,Zeta Industries,VP Sales,Fintech,201-500,Referral
+L0487,Arjun,Kapoor,arjun.kapoor@smartanalytics.com,+91-9876543183,Smart Analytics,CTO,Education,5000+,Trade Show
+L0261,Anjali,Sharma,anjali.sharma@nextgensolutions.com,+91-9876543955,NextGen Solutions,Product Manager,Education,201-500,Partner
+L0399,Kavya,Khanna,kavya.khanna@thetaanalytics.com,+91-9876543524,Theta Analytics,Business Analyst,Fintech,1-10,Website
+L0542,Siddharth,Reddy,siddharth.reddy@quantumsystems.com,+91-9876543243,Quantum Systems,VP Sales,SaaS,201-500,Partner
+L0333,Manish,Shah,manish.shah@quantumsystems.com,+91-9876543581,Quantum Systems,Director Sales,IT Services,501-1000,Trade Show
+L1011,Manish,Patel,manish.patel@quantumsystems.com,+91-9876543079,Quantum Systems,Director Sales,Education,1-10,Website
+L0985,Aditya,Malhotra,aditya.malhotra@betainnovations.com,+91-9876543864,Beta Innovations,CFO,Education,11-50,LinkedIn
+L0465,Kavya,Iyer,kavya.iyer@fusiontech.com,+91-9876543643,Fusion Tech,VP Marketing,Manufacturing,501-1000,Partner
+L0793,Meera,Mehta,meera.mehta@epsiloncorp.com,+91-9876543398,Epsilon Corp,Product Manager,Cybersecurity,11-50,LinkedIn
+L0747,Varun,Shah,varun.shah@epsiloncorp.com,+91-9876543919,Epsilon Corp,Operations Manager,Media,51-200,Partner
+L0347,Priya,Malhotra,priya.malhotra@alphaenterprises.com,+91-9876543717,Alpha Enterprises,CFO,Education,1-10,Website
+L0238,Manish,Chopra,manish.chopra@innovlabs.com,+91-9876543420,Innov Labs,Marketing Manager,Insurance,1001-5000,Event
+L0606,Rohan,Gupta,rohan.gupta@zetaindustries.com,+91-9876543736,Zeta Industries,Finance Manager,Fintech,51-200,Website
+L0848,Karan,Bansal,karan.bansal@brightservices.com,+91-9876543054,Bright Services,Senior Consultant,Insurance,1-10,Website
+L0003,Amit,Mehta,amit.mehta@matrixcorp.com,+91-9876543517,Matrix Corp,Finance Manager,SaaS,501-1000,Event
+L0007,Akash,Sharma,akash.sharma@deltasystems.com,+91-9876543549,Delta Systems,VP Sales,Manufacturing,1-10,Cold Call
+L0600,Ananya,Kapoor,ananya.kapoor@techsolutions.com,+91-9876543233,Tech Solutions,Director Marketing,Retail,11-50,Event
+L0696,Amit,Joshi,amit.joshi@alphaenterprises.com,+91-9876543239,Alpha Enterprises,CTO,Insurance,11-50,Email Campaign
+L0881,Ananya,Sharma,ananya.sharma@gammatechnologies.com,+91-9876543315,Gamma Technologies,Product Manager,Retail,5000+,Partner
+L0972,Sneha,Khanna,sneha.khanna@techsolutions.com,+91-9876543688,Tech Solutions,CEO,Media,1-10,LinkedIn
+L0353,Kavya,Iyer,kavya.iyer@smartanalytics.com,+91-9876543282,Smart Analytics,Director Sales,Retail,5000+,Website
+L0553,Neha,Chopra,neha.chopra@cybernetworks.com,+91-9876543971,Cyber Networks,VP Engineering,E-commerce,5000+,Event
+L0908,Riya,Shah,riya.shah@innovlabs.com,+91-9876543278,Innov Labs,Business Analyst,Fintech,201-500,Event
+L0216,Sanjay,Malhotra,sanjay.malhotra@sigmasolutions.com,+91-9876543410,Sigma Solutions,Project Manager,Fintech,201-500,Cold Call
+L0978,Pooja,Roy,pooja.roy@digitalsystems.com,+91-9876543283,Digital Systems,CTO,Manufacturing,201-500,Email Campaign
+L0546,Amit,Khanna,amit.khanna@betainnovations.com,+91-9876543189,Beta Innovations,Marketing Manager,Manufacturing,51-200,Referral
+L0430,Ishita,Gupta,ishita.gupta@alphaenterprises.com,+91-9876543360,Alpha Enterprises,Senior Consultant,Real Estate,11-50,Cold Call
+L0276,Varun,Reddy,varun.reddy@epsiloncorp.com,+91-9876543204,Epsilon Corp,VP Sales,IT Services,5000+,Website
+L0590,Vikram,Mehta,vikram.mehta@nextgensolutions.com,+91-9876543419,NextGen Solutions,Operations Manager,Consulting,11-50,Email Campaign
+L0271,Priya,Singh,priya.singh@digitalsystems.com,+91-9876543241,Digital Systems,Marketing Manager,Cybersecurity,201-500,LinkedIn
+L0742,Amit,Khanna,amit.khanna@cybernetworks.com,+91-9876543487,Cyber Networks,Sales Manager,Cybersecurity,11-50,Cold Call
+L0831,Anjali,Malhotra,anjali.malhotra@gammatechnologies.com,+91-9876543952,Gamma Technologies,VP Sales,Media,5000+,Event
+L0817,Ishita,Roy,ishita.roy@thetaanalytics.com,+91-9876543767,Theta Analytics,Account Manager,Manufacturing,1001-5000,Website
+L0632,Riya,Chopra,riya.chopra@cloudventures.com,+91-9876543099,Cloud Ventures,Director Marketing,SaaS,51-200,Email Campaign
+L0421,Arjun,Reddy,arjun.reddy@nextgensolutions.com,+91-9876543466,NextGen Solutions,Director Sales,Education,201-500,Email Campaign
+L0919,Pooja,Singh,pooja.singh@quantumsystems.com,+91-9876543587,Quantum Systems,Director Marketing,IT Services,1-10,Cold Call
+L0299,Rajesh,Patel,rajesh.patel@betainnovations.com,+91-9876543517,Beta Innovations,Senior Consultant,E-commerce,11-50,Email Campaign
+L0257,Arjun,Patel,arjun.patel@alphaenterprises.com,+91-9876543246,Alpha Enterprises,VP Sales,Logistics,501-1000,Email Campaign
+L0026,Amit,Nair,amit.nair@digitalsystems.com,+91-9876543778,Digital Systems,Account Manager,Logistics,11-50,Referral
+L0291,Anjali,Khanna,anjali.khanna@quantumsystems.com,+91-9876543657,Quantum Systems,Product Manager,Consulting,11-50,Trade Show
+L0048,Vikram,Reddy,vikram.reddy@deltasystems.com,+91-9876543323,Delta Systems,CFO,SaaS,201-500,Website
+L0107,Sneha,Kumar,sneha.kumar@epsiloncorp.com,+91-9876543871,Epsilon Corp,Sales Manager,IT Services,201-500,Event
+L0056,Ananya,Chopra,ananya.chopra@thetaanalytics.com,+91-9876543722,Theta Analytics,Business Analyst,Education,1-10,Website
+L0535,Divya,Chopra,divya.chopra@gammatechnologies.com,+91-9876543992,Gamma Technologies,VP Engineering,Manufacturing,201-500,Trade Show
+L0214,Ishita,Kapoor,ishita.kapoor@gammatechnologies.com,+91-9876543296,Gamma Technologies,VP Sales,Manufacturing,1-10,Email Campaign
+L0121,Kunal,Malhotra,kunal.malhotra@omegatech.com,+91-9876543610,Omega Tech,Finance Manager,E-commerce,5000+,Trade Show
+L0799,Amit,Bansal,amit.bansal@nextgensolutions.com,+91-9876543953,NextGen Solutions,CTO,SaaS,51-200,Referral
+L0529,Sanjay,Agarwal,sanjay.agarwal@cybernetworks.com,+91-9876543387,Cyber Networks,Product Manager,Retail,1001-5000,Cold Call
+L0073,Rahul,Reddy,rahul.reddy@fusiontech.com,+91-9876543440,Fusion Tech,Operations Manager,Real Estate,1001-5000,Email Campaign
+L0644,Siddharth,Iyer,siddharth.iyer@smartanalytics.com,+91-9876543727,Smart Analytics,VP Engineering,Education,501-1000,Email Campaign
+L0803,Karan,Agarwal,karan.agarwal@cybernetworks.com,+91-9876543556,Cyber Networks,Marketing Manager,Cybersecurity,1001-5000,Partner
+L0405,Manish,Nair,manish.nair@omegatech.com,+91-9876543631,Omega Tech,Director Sales,Consulting,1-10,Referral
+L0568,Simran,Sharma,simran.sharma@matrixcorp.com,+91-9876543033,Matrix Corp,Senior Consultant,SaaS,51-200,Event
+L0658,Aditya,Agarwal,aditya.agarwal@thetaanalytics.com,+91-9876543366,Theta Analytics,CFO,Logistics,1001-5000,Email Campaign
+L0459,Manish,Verma,manish.verma@gammatechnologies.com,+91-9876543671,Gamma Technologies,CFO,Retail,1-10,LinkedIn
+L0948,Meera,Malhotra,meera.malhotra@thetaanalytics.com,+91-9876543839,Theta Analytics,Senior Consultant,Manufacturing,51-200,Event
+L0364,Kunal,Desai,kunal.desai@smartanalytics.com,+91-9876543397,Smart Analytics,Director Marketing,Healthcare,11-50,Email Campaign
+L1119,Priya,Singh,priya.singh@digitalsystems.com,+91-9876543241,Digital Systems Inc,Marketing Manager,Cybersecurity,201-500,LinkedIn
+L0536,Arjun,Khanna,arjun.khanna@betainnovations.com,+91-9876543103,Beta Innovations,Team Lead,Logistics,5000+,Event
+L0714,Anjali,Bansal,anjali.bansal@thetaanalytics.com,+91-9876543847,Theta Analytics,CEO,Logistics,1001-5000,Trade Show
+L0718,Varun,Khanna,varun.khanna@gammatechnologies.com,+91-9876543263,Gamma Technologies,Director Sales,SaaS,1001-5000,LinkedIn
+L0592,Nisha,Sharma,nisha.sharma@techsolutions.com,+91-9876543462,Tech Solutions,Director Operations,E-commerce,5000+,Referral
+L0320,Rahul,Gupta,rahul.gupta@sigmasolutions.com,+91-9876543692,Sigma Solutions,Account Manager,Manufacturing,201-500,Email Campaign
+L0789,Akash,Nair,akash.nair@alphaenterprises.com,+91-9876543474,Alpha Enterprises,CTO,Cybersecurity,1-10,Referral
+L0061,Nikhil,Roy,nikhil.roy@cybernetworks.com,+91-9876543902,Cyber Networks,Business Analyst,SaaS,11-50,Email Campaign
+L0729,Riya,Bansal,riya.bansal@innovlabs.com,+91-9876543968,Innov Labs,VP Engineering,Insurance,201-500,Partner
+L0093,Vikram,Chopra,vikram.chopra@cybernetworks.com,+91-9876543051,Cyber Networks,Director Operations,Manufacturing,51-200,Event
+L0737,Riya,Chopra,riya.chopra@betainnovations.com,+91-9876543576,Beta Innovations,Team Lead,Logistics,11-50,Email Campaign
+L1058,Anjali,Kumar,anjali.k@innovlabs.com,+91-9876543332,Innov Labs,CTO,Healthcare,51-200,Email Campaign
+L0804,Pooja,Bansal,pooja.bansal@thetaanalytics.com,+91-9876543164,Theta Analytics,CFO,Education,11-50,Partner
+L0281,Akash,Khanna,akash.khanna@smartanalytics.com,+91-9876543626,Smart Analytics,CFO,Fintech,51-200,Trade Show
+L0911,Akash,Nair,akash.nair@zetaindustries.com,+91-9876543157,Zeta Industries,Director Sales,Cybersecurity,201-500,Cold Call
+L0899,Kunal,Mehta,kunal.mehta@techsolutions.com,+91-9876543655,Tech Solutions,Director Sales,Retail,51-200,Cold Call
+L0356,Sanjay,Sharma,sanjay.sharma@betainnovations.com,+91-9876543449,Beta Innovations,Director Marketing,Education,11-50,LinkedIn
+L0183,Ishita,Mehta,ishita.mehta@matrixcorp.com,+91-9876543336,Matrix Corp,VP Marketing,Logistics,501-1000,LinkedIn
+L0856,Manish,Kapoor,manish.kapoor@zetaindustries.com,+91-9876543983,Zeta Industries,Finance Manager,Media,1001-5000,Event
+L0933,Manish,Agarwal,manish.agarwal@epsiloncorp.com,+91-9876543117,Epsilon Corp,Operations Manager,Real Estate,201-500,Email Campaign
+L0111,Divya,Verma,divya.verma@quantumsystems.com,+91-9876543679,Quantum Systems,Operations Manager,Cybersecurity,201-500,Email Campaign
+L0739,Neha,Joshi,neha.joshi@digitalsystems.com,+91-9876543391,Digital Systems,Director Marketing,Insurance,1001-5000,Event
+L0738,Tanya,Chopra,tanya.chopra@deltasystems.com,+91-9876543918,Delta Systems,Operations Manager,Media,1-10,Partner
+L0619,Akash,Agarwal,akash.agarwal@deltasystems.com,+91-9876543185,Delta Systems,Finance Manager,Manufacturing,5000+,Email Campaign
+L0502,Kunal,Iyer,kunal.iyer@fusiontech.com,+91-9876543462,Fusion Tech,Product Manager,Consulting,51-200,Website
+L0495,Nikhil,Reddy,nikhil.reddy@cloudventures.com,+91-9876543210,Cloud Ventures,Project Manager,E-commerce,201-500,Partner
+L0410,Simran,Kapoor,simran.kapoor@alphaenterprises.com,+91-9876543116,Alpha Enterprises,Operations Manager,E-commerce,501-1000,Referral
+L0262,Pooja,Sharma,pooja.sharma@fusiontech.com,+91-9876543292,Fusion Tech,Marketing Manager,Media,5000+,LinkedIn
+L0902,Karan,Shah,karan.shah@nextgensolutions.com,+91-9876543944,NextGen Solutions,Team Lead,Consulting,5000+,LinkedIn
+L0562,Gaurav,Joshi,gaurav.joshi@alphaenterprises.com,+91-9876543020,Alpha Enterprises,Sales Manager,Media,5000+,Cold Call
+L0579,Amit,Shah,amit.shah@brightservices.com,+91-9876543655,Bright Services,Sales Manager,Media,51-200,Cold Call
+L0897,Karan,Kumar,karan.kumar@cloudventures.com,+91-9876543024,Cloud Ventures,Senior Consultant,Insurance,5000+,Website
+L0138,Rohan,Sharma,rohan.sharma@fusiontech.com,+91-9876543530,Fusion Tech,Marketing Manager,Real Estate,5000+,Partner
+L0889,Varun,Bansal,varun.bansal@sigmasolutions.com,+91-9876543806,Sigma Solutions,Account Manager,IT Services,201-500,Email Campaign
+L0797,Akash,Verma,akash.verma@techsolutions.com,+91-9876543992,Tech Solutions,CTO,Real Estate,5000+,Partner
+L0921,Anjali,Sharma,anjali.sharma@cloudventures.com,+91-9876543392,Cloud Ventures,CTO,Fintech,201-500,Trade Show
+L0363,Nikhil,Singh,nikhil.singh@deltasystems.com,+91-9876543936,Delta Systems,CTO,Education,201-500,Trade Show
+L0683,Sneha,Bansal,sneha.bansal@quantumsystems.com,+91-9876543710,Quantum Systems,Operations Manager,IT Services,501-1000,Email Campaign
+L1093,Simrana,Malhotra,simran.malhotra@zetaindustries.com,+91-9876543469,Zeta Industries,CFO,Manufacturing,1001-5000,Website
+L0030,Rajesh,Agarwal,rajesh.agarwal@thetaanalytics.com,+91-9876543235,Theta Analytics,Operations Manager,E-commerce,1-10,Website
+L0166,Varun,Joshi,varun.joshi@smartanalytics.com,+91-9876543643,Smart Analytics,VP Sales,Insurance,1001-5000,LinkedIn
+L0249,Kavya,Bansal,kavya.bansal@techsolutions.com,+91-9876543927,Tech Solutions,CFO,SaaS,51-200,Event
+L0308,Sneha,Bansal,sneha.bansal@nextgensolutions.com,+91-9876543166,NextGen Solutions,HR Manager,Real Estate,1001-5000,Cold Call
+L0835,Sanjay,Malhotra,sanjay.malhotra@quantumsystems.com,+91-9876543805,Quantum Systems,HR Manager,IT Services,11-50,Email Campaign
+L0382,Meera,Malhotra,meera.malhotra@cybernetworks.com,+91-9876543109,Cyber Networks,VP Sales,Education,11-50,Event
+L0428,Ishita,Gupta,ishita.gupta@thetaanalytics.com,+91-9876543191,Theta Analytics,Marketing Manager,Cybersecurity,11-50,Partner
+L0893,Riya,Mehta,riya.mehta@omegatech.com,+91-9876543059,Omega Tech,VP Sales,Real Estate,1001-5000,Website
+L0785,Varun,Chopra,varun.chopra@brightservices.com,+91-9876543717,Bright Services,Finance Manager,Consulting,11-50,Email Campaign
+L0468,Sanjay,Joshi,sanjay.joshi@digitalsystems.com,+91-9876543254,Digital Systems,Account Manager,Real Estate,501-1000,Cold Call
+L0425,Kavya,Verma,kavya.verma@betainnovations.com,+91-9876543644,Beta Innovations,VP Engineering,IT Services,1001-5000,Trade Show
+L1006,Amit,Sharma,amit.sharma@matrixcorp.com,+91-9876543616,Matrix Corp,Director Marketing,SaaS,501-1000,Referral
+L0596,Rajesh,Kumar,rajesh.kumar@matrixcorp.com,+91-9876543231,Matrix Corp,Marketing Manager,Healthcare,11-50,Website
+L0066,Rajesh,Gupta,rajesh.gupta@brightservices.com,+91-9876543182,Bright Services,Operations Manager,Healthcare,1-10,Website
+L1116,Gaurav,Agarwal,gaurav.agarwal@techsolutions.com,+91-9876543720,Tech Solutions Ltd,Marketing Manager,Real Estate,501-1000,Referral
+L1012,Amit,Iyer,amit.iyer@betainnovations.com,+91-9876543470,Beta Innovations,Operations Manager,E-commerce,1001-5000,Trade Show
+L1063,Tanya,Verma,tverma@omegatech.com,+91-9876543894,Omega Tech,CFO,Education,201-500,Email Campaign
+L0255,Meera,Iyer,meera.iyer@digitalsystems.com,+91-9876543976,Digital Systems,Project Manager,Education,501-1000,LinkedIn
+L0822,Varun,Verma,varun.verma@sigmasolutions.com,+91-9876543558,Sigma Solutions,Director Sales,Manufacturing,5000+,Cold Call
+L0313,Vikram,Verma,vikram.verma@innovlabs.com,+91-9876543586,Innov Labs,VP Sales,E-commerce,1-10,Partner
+L0491,Sneha,Patel,sneha.patel@thetaanalytics.com,+91-9876543467,Theta Analytics,CEO,Cybersecurity,11-50,Cold Call
+L0222,Aditya,Chopra,aditya.chopra@quantumsystems.com,+91-9876543815,Quantum Systems,Director Operations,Real Estate,1-10,Email Campaign
+L0236,Meera,Khanna,meera.khanna@zetaindustries.com,+91-9876543038,Zeta Industries,Sales Manager,Logistics,501-1000,Referral
+L0452,Manish,Chopra,manish.chopra@alphaenterprises.com,+91-9876543870,Alpha Enterprises,CFO,Logistics,501-1000,Trade Show
+L0616,Arjun,Shah,arjun.shah@cybernetworks.com,+91-9876543116,Cyber Networks,HR Manager,Manufacturing,201-500,Cold Call
+L0306,Varun,Desai,varun.desai@betainnovations.com,+91-9876543512,Beta Innovations,CTO,SaaS,1-10,Referral
+L0440,Tanya,Khanna,tanya.khanna@alphaenterprises.com,+91-9876543555,Alpha Enterprises,CTO,Logistics,1001-5000,Partner
+L0868,Tanya,Mehta,tanya.mehta@digitalsystems.com,+91-9876543181,Digital Systems,Senior Consultant,Media,501-1000,Partner
+L1065,Simran,Kapoor,skapoor@matrixcorp.com,+91-9876543269,Matrix Corp,CFO,Manufacturing,1001-5000,Event
+L0250,Simran,Singh,simran.singh@thetaanalytics.com,+91-9876543962,Theta Analytics,Finance Manager,Education,201-500,Website
+L0717,Rohan,Singh,rohan.singh@brightservices.com,+91-9876543488,Bright Services,Director Marketing,Media,1-10,Cold Call
+L1075,Arjun,Roy,arjun.roy@cybernetworks.com,+91-9876543203,Cyber Networks,Operations Manager,Cybersecurity,5000+,Email Campaign
+L0072,Siddharth,Roy,siddharth.roy@omegatech.com,+91-9876543582,Omega Tech,Product Manager,Manufacturing,501-1000,LinkedIn
+L0095,Pooja,Patel,pooja.patel@epsiloncorp.com,+91-9876543019,Epsilon Corp,Account Manager,SaaS,51-200,Event
+L0437,Rohan,Chopra,rohan.chopra@epsiloncorp.com,+91-9876543171,Epsilon Corp,CFO,Real Estate,1-10,Event
+L0034,Karan,Gupta,karan.gupta@cloudventures.com,+91-9876543674,Cloud Ventures,Business Analyst,Cybersecurity,201-500,Trade Show
+L0740,Akash,Shah,akash.shah@gammatechnologies.com,+91-9876543978,Gamma Technologies,Marketing Manager,Education,501-1000,LinkedIn
+L0260,Riya,Chopra,riya.chopra@innovlabs.com,+91-9876543300,Innov Labs,Director Sales,SaaS,5000+,Event
+L0205,Kavya,Shah,kavya.shah@cybernetworks.com,+91-9876543378,Cyber Networks,Product Manager,Retail,51-200,Website
+L0678,Karan,Malhotra,karan.malhotra@zetaindustries.com,+91-9876543145,Zeta Industries,VP Engineering,IT Services,11-50,Cold Call
+L0712,Simran,Singh,simran.singh@omegatech.com,+91-9876543098,Omega Tech,VP Engineering,Consulting,501-1000,LinkedIn
+L0454,Sneha,Khanna,sneha.khanna@sigmasolutions.com,+91-9876543133,Sigma Solutions,Operations Manager,Media,201-500,Email Campaign
+L0078,Riya,Kapoor,riya.kapoor@epsiloncorp.com,+91-9876543409,Epsilon Corp,Director Marketing,IT Services,1001-5000,LinkedIn
+L0085,Pooja,Shah,pooja.shah@nextgensolutions.com,+91-9876543914,NextGen Solutions,Account Manager,Fintech,11-50,Referral
+L0494,Rajesh,Verma,rajesh.verma@thetaanalytics.com,+91-9876543354,Theta Analytics,CEO,Cybersecurity,1-10,Trade Show
+L0083,Kavya,Joshi,kavya.joshi@matrixcorp.com,+91-9876543860,Matrix Corp,Director Operations,Logistics,5000+,Partner
+L0719,Ishita,Desai,ishita.desai@cloudventures.com,+91-9876543532,Cloud Ventures,CEO,Manufacturing,1001-5000,Event
+L0531,Ananya,Bansal,ananya.bansal@nextgensolutions.com,+91-9876543943,NextGen Solutions,Finance Manager,E-commerce,1001-5000,Website
+L0695,Manish,Nair,manish.nair@alphaenterprises.com,+91-9876543041,Alpha Enterprises,Director Marketing,Logistics,201-500,Event
+L0635,Karan,Gupta,karan.gupta@betainnovations.com,+91-9876543220,Beta Innovations,Senior Consultant,Media,5000+,Event
+L0450,Kavya,Patel,kavya.patel@digitalsystems.com,+91-9876543412,Digital Systems,Project Manager,Retail,51-200,Email Campaign
+L0443,Tanya,Verma,tanya.verma@fusiontech.com,+91-9876543830,Fusion Tech,Operations Manager,Retail,51-200,Trade Show
+L0829,Akash,Nair,akash.nair@cybernetworks.com,+91-9876543499,Cyber Networks,Operations Manager,Media,1-10,Cold Call
+L0351,Meera,Singh,meera.singh@matrixcorp.com,+91-9876543854,Matrix Corp,CEO,Logistics,1-10,Cold Call
+L0630,Nisha,Chopra,nisha.chopra@nextgensolutions.com,+91-9876543372,NextGen Solutions,CTO,Media,11-50,Partner
+L0006,Neha,Patel,neha.patel@betainnovations.com,+91-9876543099,Beta Innovations,Marketing Manager,Media,51-200,Cold Call
+L0311,Akash,Kumar,akash.kumar@omegatech.com,+91-9876543485,Omega Tech,Director Operations,Insurance,5000+,Event
+L0561,Priya,Kapoor,priya.kapoor@nextgensolutions.com,+91-9876543707,NextGen Solutions,Director Marketing,SaaS,1001-5000,Partner
+L0105,Kavya,Malhotra,kavya.malhotra@sigmasolutions.com,+91-9876543274,Sigma Solutions,Sales Manager,Media,11-50,Website
+L0098,Kavya,Joshi,kavya.joshi@alphaenterprises.com,+91-9876543171,Alpha Enterprises,Finance Manager,Real Estate,1001-5000,Website
+L1109,Divya,Malhotra,divya.malhotra@nextgensolutions.com,+91-9876543695,NextGen Solutions Ltd,Finance Manager,SaaS,5000+,Email Campaign
+L0787,Rahul,Joshi,rahul.joshi@smartanalytics.com,+91-9876543732,Smart Analytics,Senior Consultant,Retail,1-10,Event
+L0315,Nikhil,Sharma,nikhil.sharma@smartanalytics.com,+91-9876543531,Smart Analytics,Director Sales,Education,51-200,Partner
+L0526,Tanya,Gupta,tanya.gupta@zetaindustries.com,+91-9876543881,Zeta Industries,Marketing Manager,Fintech,51-200,Trade Show
+L0669,Priya,Roy,priya.roy@brightservices.com,+91-9876543571,Bright Services,CFO,Real Estate,5000+,Event
+L0063,Divya,Sharma,divya.sharma@epsiloncorp.com,+91-9876543227,Epsilon Corp,Director Sales,Media,201-500,Email Campaign
+L0282,Riya,Nair,riya.nair@zetaindustries.com,+91-9876543420,Zeta Industries,Business Analyst,Media,501-1000,Website
+L0671,Sneha,Kumar,sneha.kumar@betainnovations.com,+91-9876543689,Beta Innovations,VP Sales,Education,1-10,Website
+L0267,Sneha,Reddy,sneha.reddy@quantumsystems.com,+91-9876543456,Quantum Systems,Finance Manager,Retail,201-500,Referral
+L0979,Priya,Joshi,priya.joshi@brightservices.com,+91-9876543182,Bright Services,Senior Consultant,Fintech,201-500,Event
+L0239,Kavya,Bansal,kavya.bansal@quantumsystems.com,+91-9876543770,Quantum Systems,Senior Consultant,E-commerce,501-1000,Event
+L0627,Akash,Agarwal,akash.agarwal@deltasystems.com,+91-9876543090,Delta Systems,Team Lead,Consulting,51-200,Website
+L0146,Rahul,Reddy,rahul.reddy@sigmasolutions.com,+91-9876543593,Sigma Solutions,Team Lead,Media,11-50,Partner
+L1047,Nisha,Singh,nisha.s@digitalsystems.com,+91-9876543543,Digital Systems,Operations Manager,SaaS,501-1000,Referral
+L0507,Neha,Kumar,neha.kumar@innovlabs.com,+91-9876543850,Innov Labs,Director Marketing,IT Services,11-50,Trade Show
+L0666,Nisha,Patel,nisha.patel@fusiontech.com,+91-9876543686,Fusion Tech,Director Sales,Media,1001-5000,Trade Show
+L0119,Neha,Patel,neha.patel@betainnovations.com,+91-9876543503,Beta Innovations,CFO,Real Estate,1001-5000,LinkedIn
+L0701,Aditya,Nair,aditya.nair@omegatech.com,+91-9876543006,Omega Tech,Project Manager,IT Services,201-500,Referral
+L0527,Ishita,Gupta,ishita.gupta@nextgensolutions.com,+91-9876543309,NextGen Solutions,Sales Manager,IT Services,11-50,Trade Show
+L0251,Tanya,Reddy,tanya.reddy@matrixcorp.com,+91-9876543308,Matrix Corp,VP Sales,SaaS,11-50,Trade Show
+L0927,Neha,Iyer,neha.iyer@epsiloncorp.com,+91-9876543472,Epsilon Corp,VP Engineering,Healthcare,5000+,Email Campaign
+L0286,Gaurav,Verma,gaurav.verma@alphaenterprises.com,+91-9876543970,Alpha Enterprises,Project Manager,Healthcare,5000+,Website
+L0997,Kavya,Bansal,kavya.bansal@cybernetworks.com,+91-9876543855,Cyber Networks,Operations Manager,Fintech,5000+,Website
+L0010,Pooja,Chopra,pooja.chopra@alphaenterprises.com,+91-9876543166,Alpha Enterprises,Marketing Manager,Cybersecurity,11-50,Cold Call
+L1070,Gaurav,Sharma,gaurav.s@omegatech.com,+91-9876543892,Omega Tech,CFO,Cybersecurity,201-500,LinkedIn
+L0197,Akash,Singh,akash.singh@thetaanalytics.com,+91-9876543061,Theta Analytics,Operations Manager,Education,501-1000,Email Campaign
+L1014,Riya,Singh,riya.singh@gammatechnologies.com,+91-9876543180,Gamma Technologies,Project Manager,Insurance,51-200,LinkedIn
+L0371,Pooja,Iyer,pooja.iyer@zetaindustries.com,+91-9876543903,Zeta Industries,Team Lead,Consulting,1-10,Partner
+L0082,Simran,Khanna,simran.khanna@deltasystems.com,+91-9876543918,Delta Systems,VP Engineering,Retail,5000+,Partner
+L0390,Gaurav,Patel,gaurav.patel@quantumsystems.com,+91-9876543166,Quantum Systems,Operations Manager,E-commerce,501-1000,Trade Show
+L0991,Rajesh,Agarwal,rajesh.agarwal@matrixcorp.com,+91-9876543500,Matrix Corp,HR Manager,Fintech,5000+,Cold Call
+L0603,Nisha,Kumar,nisha.kumar@innovlabs.com,+91-9876543706,Innov Labs,VP Sales,Manufacturing,201-500,Trade Show
+L0768,Manish,Agarwal,manish.agarwal@zetaindustries.com,+91-9876543988,Zeta Industries,Senior Consultant,Manufacturing,11-50,Referral
+L0576,Rohan,Kapoor,rohan.kapoor@alphaenterprises.com,+91-9876543470,Alpha Enterprises,Director Operations,E-commerce,201-500,Cold Call
+L0595,Kunal,Mehta,kunal.mehta@alphaenterprises.com,+91-9876543972,Alpha Enterprises,CEO,Cybersecurity,5000+,Event
+L0240,Rahul,Nair,rahul.nair@fusiontech.com,+91-9876543376,Fusion Tech,Operations Manager,Consulting,201-500,Cold Call
+L0429,Neha,Joshi,neha.joshi@epsiloncorp.com,+91-9876543540,Epsilon Corp,Sales Manager,Real Estate,201-500,Trade Show
+L0212,Kunal,Verma,kunal.verma@zetaindustries.com,+91-9876543572,Zeta Industries,Marketing Manager,Fintech,201-500,LinkedIn
+L0980,Varun,Kapoor,varun.kapoor@cybernetworks.com,+91-9876543660,Cyber Networks,Team Lead,Fintech,11-50,Trade Show
+L0883,Rajesh,Chopra,rajesh.chopra@epsiloncorp.com,+91-9876543875,Epsilon Corp,Team Lead,Education,5000+,LinkedIn
+L0145,Tanya,Malhotra,tanya.malhotra@nextgensolutions.com,+91-9876543956,NextGen Solutions,Project Manager,Healthcare,5000+,LinkedIn
+L0950,Riya,Desai,riya.desai@brightservices.com,+91-9876543420,Bright Services,Account Manager,Real Estate,51-200,LinkedIn
+L0589,Meera,Gupta,meera.gupta@betainnovations.com,+91-9876543542,Beta Innovations,Product Manager,Manufacturing,1-10,Referral
+L0228,Kavya,Desai,kavya.desai@zetaindustries.com,+91-9876543624,Zeta Industries,VP Engineering,Cybersecurity,51-200,Cold Call
+L1037,Akash,Sharma,asharma@brightservices.com,+91-9876543899,Bright Services,HR Manager,Media,1-10,Cold Call
+L0906,Amit,Singh,amit.singh@brightservices.com,+91-9876543860,Bright Services,CEO,Cybersecurity,201-500,Referral
+L1038,Tanya,Shah,tshah@gammatechnologies.com,+91-9876543108,Gamma Technologies,CEO,Fintech,51-200,Event
+L0975,Varun,Gupta,varun.gupta@cloudventures.com,+91-9876543088,Cloud Ventures,Finance Manager,IT Services,201-500,Referral
+L0178,Ishita,Singh,ishita.singh@gammatechnologies.com,+91-9876543670,Gamma Technologies,VP Sales,Media,201-500,Trade Show
+L1099,Tanya,Mehta,tanya.mehta@thetaanalytics.com,+91-9876543993,Theta Analytics,Director Marketing,IT Services,1-10,Trade Show
+L0802,Pooja,Sharma,pooja.sharma@epsiloncorp.com,+91-9876543723,Epsilon Corp,Senior Consultant,Education,51-200,Partner
+L0136,Simran,Khanna,simran.khanna@innovlabs.com,+91-9876543465,Innov Labs,CFO,Cybersecurity,51-200,Email Campaign
+L0602,Divya,Joshi,divya.joshi@thetaanalytics.com,+91-9876543638,Theta Analytics,CTO,Real Estate,1-10,Website
+L0466,Nikhil,Mehta,nikhil.mehta@digitalsystems.com,+91-9876543918,Digital Systems,VP Sales,IT Services,5000+,Website
+L0913,Karan,Sharma,karan.sharma@deltasystems.com,+91-9876543396,Delta Systems,Project Manager,Fintech,1-10,Cold Call
+L1117,Simran,Kapoor,simran.kapoor@epsiloncorp.com,+91-9876543819,Epsilon Corp Ltd,Business Analyst,Insurance,5000+,Referral
+L0008,Simran,Bansal,simran.bansal@alphaenterprises.com,+91-9876543591,Alpha Enterprises,Director Sales,Retail,1-10,LinkedIn
+L0977,Nisha,Chopra,nisha.chopra@brightservices.com,+91-9876543787,Bright Services,Business Analyst,Retail,1001-5000,Email Campaign
+L0156,Anjali,Kumar,anjali.kumar@innovlabs.com,+91-9876543332,Innov Labs,CTO,Healthcare,51-200,Email Campaign
+L1027,Akash,Khanna,akash.khanna@alphaenterprises.com,+91-9876543543,Alpha Enterprises,Project Manager,Healthcare,5000+,Cold Call
+L0358,Sanjay,Reddy,sanjay.reddy@smartanalytics.com,+91-9876543676,Smart Analytics,Project Manager,E-commerce,201-500,Cold Call
+L0876,Divya,Malhotra,divya.malhotra@nextgensolutions.com,+91-9876543461,NextGen Solutions,CEO,IT Services,201-500,Event
+L0224,Simran,Reddy,simran.reddy@digitalsystems.com,+91-9876543660,Digital Systems,CFO,Real Estate,501-1000,Trade Show
+L0330,Ishita,Bansal,ishita.bansal@cloudventures.com,+91-9876543950,Cloud Ventures,Sales Manager,Healthcare,201-500,Partner
+L0629,Simran,Patel,simran.patel@omegatech.com,+91-9876543986,Omega Tech,Finance Manager,Insurance,51-200,Event
+L1023,Priya,Desai,priya.desai@gammatechnologies.com,+91-9876543489,Gamma Technologies,Account Manager,SaaS,501-1000,Partner
+L0555,Simran,Bansal,simran.bansal@brightservices.com,+91-9876543327,Bright Services,CFO,Fintech,201-500,Trade Show
+L0954,Nisha,Patel,nisha.patel@thetaanalytics.com,+91-9876543817,Theta Analytics,Operations Manager,Healthcare,501-1000,LinkedIn
+L0716,Sanjay,Nair,sanjay.nair@betainnovations.com,+91-9876543358,Beta Innovations,Operations Manager,Logistics,1001-5000,Website
+L0920,Varun,Shah,varun.shah@thetaanalytics.com,+91-9876543454,Theta Analytics,CTO,IT Services,1-10,Partner
+L0894,Aditya,Bansal,aditya.bansal@quantumsystems.com,+91-9876543437,Quantum Systems,Finance Manager,Media,51-200,Cold Call
+L0597,Divya,Desai,divya.desai@sigmasolutions.com,+91-9876543313,Sigma Solutions,VP Engineering,Fintech,5000+,LinkedIn
+L0533,Ananya,Patel,ananya.patel@nextgensolutions.com,+91-9876543457,NextGen Solutions,CEO,Healthcare,11-50,Event
+L0715,Meera,Malhotra,meera.malhotra@alphaenterprises.com,+91-9876543895,Alpha Enterprises,CTO,Retail,501-1000,Trade Show
+L1082,Tanya,Malhotra,tanya.malhotra@alphaenterprises.com,+91-9876543599,Alpha Enterprises,HR Manager,Consulting,5000+,Trade Show
+L0702,Sanjay,Patel,sanjay.patel@zetaindustries.com,+91-9876543658,Zeta Industries,Director Operations,E-commerce,11-50,Referral
+L0571,Ishita,Khanna,ishita.khanna@alphaenterprises.com,+91-9876543352,Alpha Enterprises,VP Engineering,Media,51-200,Website
+L1118,Sneha,Khanna,sneha.khanna@techsolutions.com,+91-9876543688,Technologies Solutions,CEO,Media,1-10,LinkedIn
+L1067,Ananya,Iyer,ananya.i@omegatech.com,+91-9876543734,Omega Tech,VP Sales,Insurance,11-50,Trade Show
+L0441,Kunal,Mehta,kunal.mehta@gammatechnologies.com,+91-9876543104,Gamma Technologies,Director Marketing,Healthcare,5000+,LinkedIn
+L0721,Pooja,Khanna,pooja.khanna@gammatechnologies.com,+91-9876543578,Gamma Technologies,Marketing Manager,Real Estate,51-200,Trade Show
+L1015,Arjun,Desai,arjun.desai@cybernetworks.com,+91-9876543975,Cyber Networks,CEO,IT Services,5000+,Partner
+L0823,Arjun,Chopra,arjun.chopra@deltasystems.com,+91-9876543982,Delta Systems,HR Manager,SaaS,1001-5000,LinkedIn
+L0164,Pooja,Kumar,pooja.kumar@sigmasolutions.com,+91-9876543885,Sigma Solutions,CTO,Real Estate,1001-5000,Partner
+L0229,Divya,Malhotra,divya.malhotra@nextgensolutions.com,+91-9876543695,NextGen Solutions,Finance Manager,SaaS,5000+,Email Campaign
+L0766,Amit,Roy,amit.roy@nextgensolutions.com,+91-9876543233,NextGen Solutions,Sales Manager,Cybersecurity,1001-5000,Cold Call
+L1078,Ishita,Kapoor,ishita.kapoor@epsiloncorp.com,+91-9876543233,Epsilon Corp,Finance Manager,Retail,501-1000,Cold Call
+L0213,Rohan,Kumar,rohan.kumar@deltasystems.com,+91-9876543943,Delta Systems,CFO,Media,51-200,Trade Show
+L0940,Nikhil,Singh,nikhil.singh@quantumsystems.com,+91-9876543063,Quantum Systems,Marketing Manager,Education,1-10,LinkedIn
+L0080,Priya,Khanna,priya.khanna@matrixcorp.com,+91-9876543939,Matrix Corp,VP Sales,Consulting,11-50,Partner
+L0149,Nikhil,Malhotra,nikhil.malhotra@innovlabs.com,+91-9876543325,Innov Labs,Team Lead,Retail,5000+,Trade Show
+L0303,Arjun,Khanna,arjun.khanna@quantumsystems.com,+91-9876543075,Quantum Systems,HR Manager,Education,201-500,Cold Call
+L0623,Aditya,Iyer,aditya.iyer@betainnovations.com,+91-9876543152,Beta Innovations,Account Manager,Real Estate,1-10,LinkedIn
+L0478,Ishita,Patel,ishita.patel@quantumsystems.com,+91-9876543715,Quantum Systems,Business Analyst,Retail,5000+,Event
+L0622,Siddharth,Shah,siddharth.shah@zetaindustries.com,+91-9876543535,Zeta Industries,Finance Manager,Fintech,201-500,Event
+L1079,Vikram,Malhotra,vikram.malhotra@omegatech.com,+91-9876543755,Omega Tech,Project Manager,Healthcare,5000+,Email Campaign
+L0044,Priya,Desai,priya.desai@digitalsystems.com,+91-9876543871,Digital Systems,VP Engineering,Fintech,501-1000,Website
+L0598,Rahul,Reddy,rahul.reddy@deltasystems.com,+91-9876543745,Delta Systems,Project Manager,Real Estate,501-1000,Email Campaign
+L0134,Amit,Nair,amit.nair@alphaenterprises.com,+91-9876543418,Alpha Enterprises,Sales Manager,Cybersecurity,1001-5000,Website
+L0674,Divya,Kumar,divya.kumar@epsiloncorp.com,+91-9876543160,Epsilon Corp,Account Manager,E-commerce,11-50,Trade Show
+L0530,Vikram,Roy,vikram.roy@techsolutions.com,+91-9876543971,Tech Solutions,Operations Manager,Manufacturing,5000+,LinkedIn
+L0614,Neha,Sharma,neha.sharma@techsolutions.com,+91-9876543872,Tech Solutions,VP Marketing,Insurance,1001-5000,Referral
+L0312,Manish,Sharma,manish.sharma@sigmasolutions.com,+91-9876543491,Sigma Solutions,VP Engineering,Education,1001-5000,Trade Show
+L0409,Manish,Nair,manish.nair@sigmasolutions.com,+91-9876543800,Sigma Solutions,Director Marketing,Cybersecurity,201-500,Cold Call
+L0583,Ishita,Agarwal,ishita.agarwal@fusiontech.com,+91-9876543351,Fusion Tech,Director Marketing,Insurance,501-1000,Partner
+L0753,Sanjay,Joshi,sanjay.joshi@epsiloncorp.com,+91-9876543981,Epsilon Corp,Finance Manager,Cybersecurity,51-200,Referral
+L0585,Rahul,Gupta,rahul.gupta@epsiloncorp.com,+91-9876543131,Epsilon Corp,Director Operations,Retail,5000+,Referral
+L0966,Priya,Roy,priya.roy@deltasystems.com,+91-9876543408,Delta Systems,Team Lead,Healthcare,201-500,Event
+L1007,Vikram,Desai,vikram.desai@sigmasolutions.com,+91-9876543029,Sigma Solutions,VP Engineering,E-commerce,5000+,Partner
+L0925,Aditya,Verma,aditya.verma@matrixcorp.com,+91-9876543147,Matrix Corp,Finance Manager,Healthcare,51-200,Trade Show
+L0001,Nisha,Gupta,nisha.gupta@techsolutions.com,+91-9876543759,Tech Solutions,Director Operations,E-commerce,11-50,Referral
+L0423,Priya,Gupta,priya.gupta@techsolutions.com,+91-9876543869,Tech Solutions,Sales Manager,Insurance,1-10,Referral
+L0361,Akash,Desai,akash.desai@nextgensolutions.com,+91-9876543713,NextGen Solutions,Business Analyst,Manufacturing,11-50,Cold Call
+L0383,Karan,Bansal,karan.bansal@zetaindustries.com,+91-9876543258,Zeta Industries,Marketing Manager,Healthcare,5000+,Trade Show
+L0317,Kunal,Iyer,kunal.iyer@brightservices.com,+91-9876543624,Bright Services,Team Lead,E-commerce,11-50,Cold Call
+L0951,Priya,Agarwal,priya.agarwal@epsiloncorp.com,+91-9876543721,Epsilon Corp,Marketing Manager,Fintech,501-1000,Partner
+L0476,Amit,Khanna,amit.khanna@thetaanalytics.com,+91-9876543630,Theta Analytics,VP Marketing,Healthcare,1-10,Cold Call
+L0870,Varun,Kapoor,varun.kapoor@nextgensolutions.com,+91-9876543403,NextGen Solutions,Finance Manager,Retail,501-1000,LinkedIn
+L0755,Pooja,Chopra,pooja.chopra@cybernetworks.com,+91-9876543585,Cyber Networks,VP Marketing,Real Estate,1001-5000,Event
+L0508,Arjun,Patel,arjun.patel@sigmasolutions.com,+91-9876543600,Sigma Solutions,Director Operations,Media,1-10,LinkedIn
+L0650,Manish,Khanna,manish.khanna@betainnovations.com,+91-9876543243,Beta Innovations,Project Manager,Logistics,5000+,Cold Call
+L1081,Vikram,Roy,vikram.roy@sigmasolutions.com,+91-9876543225,Sigma Solutions,Director Operations,SaaS,51-200,Partner
+L0141,Rahul,Khanna,rahul.khanna@techsolutions.com,+91-9876543565,Tech Solutions,Business Analyst,Fintech,11-50,Website
+L0173,Siddharth,Joshi,siddharth.joshi@sigmasolutions.com,+91-9876543390,Sigma Solutions,Marketing Manager,Fintech,1001-5000,Event
+L0451,Kavya,Nair,kavya.nair@nextgensolutions.com,+91-9876543595,NextGen Solutions,CEO,Media,5000+,Website
+L0126,Riya,Chopra,riya.chopra@digitalsystems.com,+91-9876543703,Digital Systems,Director Marketing,Healthcare,5000+,Event
+L1009,Varun,Desai,varun.desai@techsolutions.com,+91-9876543683,Tech Solutions,Account Manager,Healthcare,1001-5000,LinkedIn
+L0709,Ananya,Verma,ananya.verma@gammatechnologies.com,+91-9876543615,Gamma Technologies,VP Marketing,Logistics,501-1000,Referral
+L0676,Rajesh,Khanna,rajesh.khanna@thetaanalytics.com,+91-9876543144,Theta Analytics,VP Sales,SaaS,1-10,Trade Show
+L1064,Rohan,Nair,rnair@epsiloncorp.com,+91-9876543249,Epsilon Corp,Senior Consultant,Education,11-50,Trade Show
+L0091,Siddharth,Kapoor,siddharth.kapoor@cybernetworks.com,+91-9876543860,Cyber Networks,Senior Consultant,IT Services,501-1000,LinkedIn
+L1086,Neha,Gupta,neha.gupta@thetaanalytics.com,+91-9876543382,Theta Analytics,Director Sales,Manufacturing,201-500,Event
+L0182,Priya,Shah,priya.shah@matrixcorp.com,+91-9876543128,Matrix Corp,Operations Manager,E-commerce,1-10,Event
+L0694,Kavya,Roy,kavya.roy@cybernetworks.com,+91-9876543579,Cyber Networks,Operations Manager,Insurance,5000+,Referral
+L1010,Vikram,Chopra,vikram.chopra@zetaindustries.com,+91-9876543522,Zeta Industries,CFO,Manufacturing,51-200,Referral
+L0252,Nisha,Bansal,nisha.bansal@deltasystems.com,+91-9876543064,Delta Systems,VP Sales,Media,201-500,LinkedIn
+L0070,Varun,Shah,varun.shah@cloudventures.com,+91-9876543737,Cloud Ventures,Product Manager,Education,51-200,Trade Show
+L0132,Tanya,Joshi,tanya.joshi@sigmasolutions.com,+91-9876543041,Sigma Solutions,VP Engineering,Consulting,501-1000,Partner
+L0301,Rahul,Khanna,rahul.khanna@techsolutions.com,+91-9876543867,Tech Solutions,VP Sales,Manufacturing,11-50,Cold Call
+L0811,Ishita,Kapoor,ishita.kapoor@epsiloncorp.com,+91-9876543538,Epsilon Corp,Finance Manager,Retail,501-1000,Cold Call
+L0327,Rahul,Sharma,rahul.sharma@digitalsystems.com,+91-9876543667,Digital Systems,Operations Manager,E-commerce,501-1000,LinkedIn
+L1113,Vikram,Gupta,vikram.gupta@cybernetworks.com,+91-9876543460,Cyber Networks,Senior Consultant,Cybersecurity,201-500,Website
+L0500,Sneha,Chopra,sneha.chopra@brightservices.com,+91-9876543239,Bright Services,CFO,E-commerce,11-50,Website
+L0615,Sneha,Iyer,sneha.iyer@deltasystems.com,+91-9876543978,Delta Systems,Finance Manager,Healthcare,1001-5000,Website
+L0791,Anjali,Joshi,anjali.joshi@betainnovations.com,+91-9876543848,Beta Innovations,CEO,Fintech,5000+,Event
+L0496,Priya,Singh,priya.singh@brightservices.com,+91-9876543095,Bright Services,CTO,E-commerce,5000+,Trade Show
+L0339,Varun,Verma,varun.verma@matrixcorp.com,+91-9876543980,Matrix Corp,VP Marketing,Consulting,11-50,Partner
+L0826,Neha,Sharma,neha.sharma@deltasystems.com,+91-9876543364,Delta Systems,VP Marketing,IT Services,51-200,Email Campaign
+L0165,Simran,Reddy,simran.reddy@matrixcorp.com,+91-9876543621,Matrix Corp,Marketing Manager,E-commerce,1001-5000,Event
+L0029,Kavya,Desai,kavya.desai@deltasystems.com,+91-9876543123,Delta Systems,Director Marketing,E-commerce,1-10,Email Campaign
+L0517,Sneha,Bansal,sneha.bansal@matrixcorp.com,+91-9876543030,Matrix Corp,Director Operations,SaaS,5000+,Partner
+L0194,Rohan,Shah,rohan.shah@deltasystems.com,+91-9876543408,Delta Systems,Business Analyst,Retail,1-10,Email Campaign
+L0904,Kavya,Malhotra,kavya.malhotra@innovlabs.com,+91-9876543855,Innov Labs,Project Manager,Healthcare,501-1000,Email Campaign
+L0170,Pooja,Nair,pooja.nair@quantumsystems.com,+91-9876543764,Quantum Systems,Sales Manager,Logistics,1-10,Partner
+L0617,Simran,Kapoor,simran.kapoor@epsiloncorp.com,+91-9876543819,Epsilon Corp,Business Analyst,Insurance,5000+,Referral
+L0174,Aditya,Kumar,aditya.kumar@omegatech.com,+91-9876543905,Omega Tech,Account Manager,Cybersecurity,501-1000,Event
+L0519,Pooja,Khanna,pooja.khanna@innovlabs.com,+91-9876543782,Innov Labs,Director Marketing,Real Estate,5000+,Trade Show
+L1054,Gaurav,Joshi,gjoshi@gammatechnologies.com,+91-9876543397,Gamma Technologies,Senior Consultant,Insurance,201-500,Trade Show
+L0605,Rahul,Malhotra,rahul.malhotra@cloudventures.com,+91-9876543678,Cloud Ventures,Project Manager,Healthcare,501-1000,Referral
+L0492,Ishita,Reddy,ishita.reddy@omegatech.com,+91-9876543248,Omega Tech,Senior Consultant,Cybersecurity,501-1000,Partner
+L0074,Kavya,Chopra,kavya.chopra@deltasystems.com,+91-9876543691,Delta Systems,Director Sales,Education,201-500,Referral
+L0842,Varun,Singh,varun.singh@deltasystems.com,+91-9876543045,Delta Systems,Director Marketing,E-commerce,1001-5000,Email Campaign
+L0235,Karan,Verma,karan.verma@smartanalytics.com,+91-9876543158,Smart Analytics,CFO,Healthcare,5000+,Website
+L0215,Ananya,Bansal,ananya.bansal@deltasystems.com,+91-9876543851,Delta Systems,Marketing Manager,Fintech,201-500,Website
+L0815,Manish,Patel,manish.patel@quantumsystems.com,+91-9876543079,Quantum Systems,Director Sales,Education,1-10,Website
+L0133,Gaurav,Joshi,gaurav.joshi@cybernetworks.com,+91-9876543599,Cyber Networks,Business Analyst,Insurance,5000+,Partner
+L0631,Sneha,Khanna,sneha.khanna@omegatech.com,+91-9876543614,Omega Tech,Team Lead,Retail,1001-5000,Email Campaign
+L0809,Neha,Gupta,neha.gupta@zetaindustries.com,+91-9876543674,Zeta Industries,CFO,SaaS,5000+,Referral
+L0186,Ishita,Shah,ishita.shah@techsolutions.com,+91-9876543178,Tech Solutions,Director Operations,SaaS,11-50,Trade Show
+L0042,Karan,Sharma,karan.sharma@sigmasolutions.com,+91-9876543753,Sigma Solutions,Account Manager,SaaS,1001-5000,Email Campaign
+L0109,Meera,Mehta,meera.mehta@digitalsystems.com,+91-9876543247,Digital Systems,Business Analyst,Consulting,501-1000,Event
+L0905,Kunal,Khanna,kunal.khanna@techsolutions.com,+91-9876543213,Tech Solutions,Operations Manager,Insurance,51-200,Email Campaign
+L0790,Priya,Joshi,priya.joshi@betainnovations.com,+91-9876543073,Beta Innovations,Account Manager,Consulting,11-50,Event
+L0859,Nikhil,Singh,nikhil.singh@quantumsystems.com,+91-9876543705,Quantum Systems,Project Manager,IT Services,201-500,Referral
+L0484,Kavya,Desai,kavya.desai@alphaenterprises.com,+91-9876543056,Alpha Enterprises,Team Lead,Media,501-1000,Referral
+L0469,Tanya,Kumar,tanya.kumar@quantumsystems.com,+91-9876543210,Quantum Systems,Project Manager,Real Estate,501-1000,Event
+L0025,Gaurav,Iyer,gaurav.iyer@quantumsystems.com,+91-9876543245,Quantum Systems,CTO,E-commerce,501-1000,Website
+L0573,Nikhil,Verma,nikhil.verma@matrixcorp.com,+91-9876543693,Matrix Corp,Director Sales,Healthcare,1001-5000,Trade Show
+L0588,Aditya,Sharma,aditya.sharma@sigmasolutions.com,+91-9876543594,Sigma Solutions,Finance Manager,Fintech,201-500,Event
+L0949,Ananya,Malhotra,ananya.malhotra@omegatech.com,+91-9876543007,Omega Tech,Operations Manager,Consulting,5000+,Event
+L0853,Rajesh,Iyer,rajesh.iyer@alphaenterprises.com,+91-9876543363,Alpha Enterprises,Product Manager,E-commerce,501-1000,Cold Call
+L0367,Karan,Agarwal,karan.agarwal@thetaanalytics.com,+91-9876543222,Theta Analytics,Team Lead,E-commerce,5000+,Email Campaign
+L0724,Manish,Singh,manish.singh@cloudventures.com,+91-9876543765,Cloud Ventures,Director Marketing,Consulting,5000+,Referral
+L1033,Ananya,Kapoor,ananya.k@techsolutions.com,+91-9876543823,Tech Solutions,CFO,Media,11-50,Partner
+L0384,Amit,Iyer,amit.iyer@betainnovations.com,+91-9876543470,Beta Innovations,Operations Manager,E-commerce,1001-5000,Event
+L0455,Anjali,Sharma,anjali.sharma@innovlabs.com,+91-9876543101,Innov Labs,Senior Consultant,SaaS,1-10,Referral
+L0265,Arjun,Desai,arjun.desai@brightservices.com,+91-9876543820,Bright Services,CFO,Retail,201-500,Website
+L0993,Sneha,Sharma,sneha.sharma@betainnovations.com,+91-9876543121,Beta Innovations,Director Sales,Logistics,1001-5000,Partner
+L1087,Priya,Shah,priya.shah@matrixcorp.com,+91-9876543737,Matrix Corp,Operations Manager,E-commerce,1-10,Event
+L0445,Ishita,Iyer,ishita.iyer@thetaanalytics.com,+91-9876543287,Theta Analytics,Finance Manager,Education,11-50,Email Campaign
+L0396,Akash,Verma,akash.verma@digitalsystems.com,+91-9876543084,Digital Systems,Director Operations,IT Services,201-500,Referral
+L0177,Anjali,Khanna,anjali.khanna@smartanalytics.com,+91-9876543397,Smart Analytics,Senior Consultant,Cybersecurity,1001-5000,Trade Show
+L0019,Varun,Patel,varun.patel@betainnovations.com,+91-9876543390,Beta Innovations,Finance Manager,Consulting,501-1000,Cold Call
+L0783,Meera,Bansal,meera.bansal@brightservices.com,+91-9876543291,Bright Services,Account Manager,Logistics,51-200,Trade Show
+L1068,Aditya,Patel,aditya.p@matrixcorp.com,+91-9876543392,Matrix Corp,CFO,Retail,5000+,Website
+L0062,Akash,Malhotra,akash.malhotra@matrixcorp.com,+91-9876543273,Matrix Corp,VP Engineering,Logistics,1001-5000,Website
+L0273,Ishita,Singh,ishita.singh@zetaindustries.com,+91-9876543375,Zeta Industries,HR Manager,Cybersecurity,1001-5000,Cold Call
+L1053,Priya,Desai,pdesai@gammatechnologies.com,+91-9876543489,Gamma Technologies,Account Manager,SaaS,501-1000,Email Campaign
+L0279,Akash,Iyer,akash.iyer@zetaindustries.com,+91-9876543229,Zeta Industries,VP Sales,E-commerce,5000+,Referral
+L0725,Neha,Mehta,neha.mehta@zetaindustries.com,+91-9876543410,Zeta Industries,Sales Manager,Logistics,501-1000,LinkedIn
+L0369,Gaurav,Verma,gaurav.verma@omegatech.com,+91-9876543720,Omega Tech,Director Sales,Manufacturing,11-50,Email Campaign
+L0763,Tanya,Reddy,tanya.reddy@alphaenterprises.com,+91-9876543332,Alpha Enterprises,Project Manager,Consulting,5000+,Partner
+L0708,Anjali,Reddy,anjali.reddy@digitalsystems.com,+91-9876543221,Digital Systems,Senior Consultant,Real Estate,201-500,Partner
+L0667,Simran,Gupta,simran.gupta@fusiontech.com,+91-9876543550,Fusion Tech,Business Analyst,Insurance,5000+,Website
+L0548,Ishita,Sharma,ishita.sharma@smartanalytics.com,+91-9876543770,Smart Analytics,VP Sales,Fintech,1001-5000,Email Campaign
+L0756,Simran,Gupta,simran.gupta@brightservices.com,+91-9876543823,Bright Services,Director Marketing,Education,201-500,Trade Show
+L0788,Amit,Singh,amit.singh@techsolutions.com,+91-9876543505,Tech Solutions,Director Sales,Cybersecurity,201-500,Cold Call
+L0457,Anjali,Reddy,anjali.reddy@cybernetworks.com,+91-9876543895,Cyber Networks,Director Operations,Fintech,1001-5000,Email Campaign
+L0394,Rajesh,Joshi,rajesh.joshi@deltasystems.com,+91-9876543502,Delta Systems,Director Marketing,Cybersecurity,501-1000,Trade Show
+L0784,Karan,Patel,karan.patel@cybernetworks.com,+91-9876543139,Cyber Networks,Product Manager,Fintech,1001-5000,Partner
+L0941,Riya,Khanna,riya.khanna@alphaenterprises.com,+91-9876543112,Alpha Enterprises,Product Manager,Media,1-10,Event
+L0376,Kavya,Roy,kavya.roy@alphaenterprises.com,+91-9876543173,Alpha Enterprises,VP Marketing,Retail,501-1000,Partner
+L0413,Nisha,Reddy,nisha.reddy@matrixcorp.com,+91-9876543258,Matrix Corp,VP Marketing,Retail,201-500,Trade Show
+L0075,Siddharth,Patel,siddharth.patel@quantumsystems.com,+91-9876543527,Quantum Systems,Finance Manager,Cybersecurity,1-10,Event
+L1049,Sneha,Bansal,sneha.b@omegatech.com,+91-9876543977,Omega Tech,Finance Manager,Manufacturing,5000+,Email Campaign
+L0501,Vikram,Gupta,vikram.gupta@cybernetworks.com,+91-9876543460,Cyber Networks,Senior Consultant,Cybersecurity,201-500,Website
+L0690,Tanya,Agarwal,tanya.agarwal@fusiontech.com,+91-9876543928,Fusion Tech,CTO,Education,51-200,Partner
+L0115,Neha,Mehta,neha.mehta@quantumsystems.com,+91-9876543232,Quantum Systems,Marketing Manager,IT Services,51-200,LinkedIn
+L0418,Meera,Desai,meera.desai@thetaanalytics.com,+91-9876543594,Theta Analytics,Operations Manager,E-commerce,201-500,Email Campaign
+L0090,Aditya,Verma,aditya.verma@brightservices.com,+91-9876543446,Bright Services,Team Lead,SaaS,201-500,Email Campaign
+L1073,Anjalia,Kapoor,anjali.kapoor@nextgensolutions.com,+91-9876543738,NextGen Solutions,VP Engineering,Consulting,1001-5000,Partner
+L0499,Sanjay,Reddy,sanjay.reddy@brightservices.com,+91-9876543871,Bright Services,Sales Manager,Logistics,201-500,Email Campaign
+L0886,Varun,Khanna,varun.khanna@fusiontech.com,+91-9876543050,Fusion Tech,VP Engineering,IT Services,1-10,Email Campaign
+L0759,Pooja,Khanna,pooja.khanna@sigmasolutions.com,+91-9876543048,Sigma Solutions,HR Manager,Fintech,1001-5000,Referral
+L0757,Karan,Singh,karan.singh@smartanalytics.com,+91-9876543484,Smart Analytics,CEO,IT Services,201-500,Partner
+L0012,Ananya,Chopra,ananya.chopra@betainnovations.com,+91-9876543276,Beta Innovations,Account Manager,E-commerce,1001-5000,Email Campaign
+L0397,Manish,Kapoor,manish.kapoor@nextgensolutions.com,+91-9876543369,NextGen Solutions,VP Sales,Fintech,1-10,Cold Call
+L0651,Riya,Sharma,riya.sharma@betainnovations.com,+91-9876543396,Beta Innovations,Business Analyst,Logistics,1001-5000,Email Campaign
+L0973,Rohan,Gupta,rohan.gupta@zetaindustries.com,+91-9876543106,Zeta Industries,Senior Consultant,Cybersecurity,11-50,Cold Call
+L0043,Priya,Sharma,priya.sharma@sigmasolutions.com,+91-9876543488,Sigma Solutions,Project Manager,Media,501-1000,Referral
+L0168,Gaurav,Reddy,gaurav.reddy@nextgensolutions.com,+91-9876543765,NextGen Solutions,Business Analyst,IT Services,11-50,Referral
+L0417,Tanya,Shah,tanya.shah@gammatechnologies.com,+91-9876543108,Gamma Technologies,CEO,Fintech,51-200,Event
+L0577,Siddharth,Desai,siddharth.desai@omegatech.com,+91-9876543406,Omega Tech,Operations Manager,Fintech,1-10,Email Campaign
+L0929,Sneha,Khanna,sneha.khanna@digitalsystems.com,+91-9876543811,Digital Systems,Product Manager,Education,201-500,Trade Show
+L0697,Divya,Nair,divya.nair@deltasystems.com,+91-9876543902,Delta Systems,CTO,SaaS,1001-5000,Email Campaign
+L0427,Divya,Kumar,divya.kumar@fusiontech.com,+91-9876543210,Fusion Tech,Director Operations,Logistics,1001-5000,Website
+L0545,Aditya,Gupta,aditya.gupta@quantumsystems.com,+91-9876543803,Quantum Systems,HR Manager,Consulting,201-500,Cold Call
+L1050,Ananya,Roy,ananya.r@digitalsystems.com,+91-9876543624,Digital Systems,HR Manager,Real Estate,1001-5000,Event
+L1100,Amita,Kapoor,amit.kapoor@quantumsystems.com,+91-9876543235,Quantum Systems,Director Marketing,Retail,51-200,Partner
+L0843,Vikram,Patel,vikram.patel@cloudventures.com,+91-9876543757,Cloud Ventures,CTO,E-commerce,501-1000,Referral
+L0760,Priya,Mehta,priya.mehta@brightservices.com,+91-9876543487,Bright Services,VP Sales,Consulting,1001-5000,Email Campaign
+L0258,Vikram,Sharma,vikram.sharma@alphaenterprises.com,+91-9876543559,Alpha Enterprises,Sales Manager,Media,1001-5000,Referral
+L0336,Sanjay,Chopra,sanjay.chopra@brightservices.com,+91-9876543976,Bright Services,Sales Manager,Healthcare,501-1000,LinkedIn
+L0016,Sanjay,Khanna,sanjay.khanna@thetaanalytics.com,+91-9876543269,Theta Analytics,Operations Manager,Manufacturing,501-1000,Trade Show
+L0778,Rahul,Kumar,rahul.kumar@techsolutions.com,+91-9876543535,Tech Solutions,VP Marketing,Cybersecurity,51-200,Partner
+L0325,Sneha,Nair,sneha.nair@cloudventures.com,+91-9876543697,Cloud Ventures,VP Marketing,SaaS,501-1000,Referral
+L0938,Karan,Mehta,karan.mehta@nextgensolutions.com,+91-9876543306,NextGen Solutions,Operations Manager,Logistics,1001-5000,Cold Call
+L0931,Divya,Patel,divya.patel@nextgensolutions.com,+91-9876543213,NextGen Solutions,Operations Manager,Manufacturing,5000+,Trade Show
+L0223,Meera,Patel,meera.patel@quantumsystems.com,+91-9876543472,Quantum Systems,Senior Consultant,SaaS,1-10,Email Campaign
+L0180,Neha,Iyer,neha.iyer@thetaanalytics.com,+91-9876543923,Theta Analytics,Marketing Manager,SaaS,201-500,Cold Call
+L0100,Divya,Mehta,divya.mehta@digitalsystems.com,+91-9876543606,Digital Systems,Director Marketing,Fintech,1001-5000,Cold Call
+L0522,Ishita,Mehta,ishita.mehta@epsiloncorp.com,+91-9876543555,Epsilon Corp,Product Manager,IT Services,201-500,LinkedIn
+L0023,Simran,Desai,simran.desai@omegatech.com,+91-9876543203,Omega Tech,VP Marketing,Cybersecurity,5000+,Referral
+L0357,Vikram,Desai,vikram.desai@quantumsystems.com,+91-9876543239,Quantum Systems,Operations Manager,Cybersecurity,501-1000,Email Campaign
+L0824,Rahul,Bansal,rahul.bansal@techsolutions.com,+91-9876543530,Tech Solutions,VP Marketing,Healthcare,1-10,Cold Call
+L1041,Tanya,Shah,tanya.s@smartanalytics.com,+91-9876543787,Smart Analytics,VP Sales,Media,501-1000,Referral
+L0612,Kavya,Reddy,kavya.reddy@brightservices.com,+91-9876543475,Bright Services,CTO,Fintech,5000+,Referral
+L0869,Riya,Shah,riya.shah@deltasystems.com,+91-9876543908,Delta Systems,Director Marketing,Manufacturing,201-500,LinkedIn
+L0341,Tanya,Verma,tanya.verma@omegatech.com,+91-9876543894,Omega Tech,CFO,Education,201-500,Email Campaign
+L0432,Rahul,Gupta,rahul.gupta@cybernetworks.com,+91-9876543382,Cyber Networks,VP Marketing,Education,201-500,Trade Show
+L0675,Akash,Khanna,akash.khanna@quantumsystems.com,+91-9876543983,Quantum Systems,VP Marketing,Healthcare,1001-5000,Email Campaign
+L1019,Nikhil,Roy,nikhil.roy@digitalsystems.com,+91-9876543499,Digital Systems,Sales Manager,Insurance,11-50,Referral
+L0204,Amit,Singh,amit.singh@techsolutions.com,+91-9876543093,Tech Solutions,Project Manager,E-commerce,201-500,Trade Show
+L1034,Meera,Desai,mdesai@fusiontech.com,+91-9876543927,Fusion Tech,Marketing Manager,Cybersecurity,1001-5000,Referral
+L0094,Kavya,Shah,kavya.shah@nextgensolutions.com,+91-9876543779,NextGen Solutions,HR Manager,Healthcare,5000+,Trade Show
+L0800,Riya,Khanna,riya.khanna@cloudventures.com,+91-9876543128,Cloud Ventures,Team Lead,E-commerce,51-200,Email Campaign
+L0069,Meera,Khanna,meera.khanna@fusiontech.com,+91-9876543372,Fusion Tech,Business Analyst,Fintech,1001-5000,Email Campaign
+L0877,Anjali,Chopra,anjali.chopra@digitalsystems.com,+91-9876543256,Digital Systems,Sales Manager,Retail,1001-5000,Referral
+L0285,Simran,Gupta,simran.gupta@zetaindustries.com,+91-9876543156,Zeta Industries,Product Manager,IT Services,11-50,Email Campaign
+L0984,Pooja,Singh,pooja.singh@nextgensolutions.com,+91-9876543926,NextGen Solutions,HR Manager,Real Estate,1-10,Partner
+L0435,Varun,Sharma,varun.sharma@alphaenterprises.com,+91-9876543974,Alpha Enterprises,CEO,Consulting,11-50,Event
+L0154,Nikhil,Khanna,nikhil.khanna@innovlabs.com,+91-9876543632,Innov Labs,CFO,E-commerce,1001-5000,Cold Call
+L0076,Siddharth,Reddy,siddharth.reddy@matrixcorp.com,+91-9876543825,Matrix Corp,Director Sales,IT Services,1-10,LinkedIn
+L0901,Neha,Shah,neha.shah@nextgensolutions.com,+91-9876543405,NextGen Solutions,Operations Manager,Real Estate,1-10,Referral
+L0581,Akash,Bansal,akash.bansal@betainnovations.com,+91-9876543676,Beta Innovations,Sales Manager,Insurance,11-50,LinkedIn
+L0447,Vikram,Malhotra,vikram.malhotra@innovlabs.com,+91-9876543283,Innov Labs,VP Marketing,Retail,5000+,Referral
+L0189,Kavya,Kumar,kavya.kumar@innovlabs.com,+91-9876543490,Innov Labs,HR Manager,Manufacturing,1001-5000,Website
+L0272,Varun,Singh,varun.singh@deltasystems.com,+91-9876543971,Delta Systems,Marketing Manager,Cybersecurity,201-500,Website
+L0237,Varun,Kapoor,varun.kapoor@smartanalytics.com,+91-9876543166,Smart Analytics,VP Engineering,Media,1001-5000,Referral
+L0488,Sanjay,Shah,sanjay.shah@matrixcorp.com,+91-9876543426,Matrix Corp,Sales Manager,Healthcare,5000+,Website
+L1084,Neha,Reddy,neha.reddy@gammatechnologies.com,+91-9876543221,Gamma Technologies,Senior Consultant,SaaS,1001-5000,Cold Call
+L0560,Priya,Roy,priya.roy@brightservices.com,+91-9876543412,Bright Services,VP Marketing,Real Estate,501-1000,Trade Show
+L0118,Aditya,Chopra,aditya.chopra@nextgensolutions.com,+91-9876543188,NextGen Solutions,CTO,Healthcare,5000+,Partner
+L0909,Arjun,Chopra,arjun.chopra@quantumsystems.com,+91-9876543221,Quantum Systems,Project Manager,Healthcare,11-50,Website
+L1000,Sneha,Mehta,sneha.mehta@innovlabs.com,+91-9876543607,Innov Labs,VP Engineering,Cybersecurity,1-10,Website
+L0513,Nisha,Reddy,nisha.reddy@epsiloncorp.com,+91-9876543421,Epsilon Corp,Account Manager,Consulting,1-10,Website
+L0634,Anjali,Roy,anjali.roy@epsiloncorp.com,+91-9876543143,Epsilon Corp,Business Analyst,Fintech,51-200,Event
+L0947,Nikhil,Chopra,nikhil.chopra@omegatech.com,+91-9876543952,Omega Tech,Business Analyst,Real Estate,11-50,Partner
+L0862,Rohan,Reddy,rohan.reddy@deltasystems.com,+91-9876543763,Delta Systems,Director Operations,IT Services,5000+,Event
+L0733,Meera,Kumar,meera.kumar@digitalsystems.com,+91-9876543941,Digital Systems,CFO,Education,51-200,Email Campaign
+L0127,Rohan,Gupta,rohan.gupta@thetaanalytics.com,+91-9876543230,Theta Analytics,VP Marketing,Healthcare,5000+,Referral
+L0117,Riya,Singh,riya.singh@epsiloncorp.com,+91-9876543105,Epsilon Corp,CEO,Real Estate,51-200,Partner
+L0474,Ishita,Patel,ishita.patel@techsolutions.com,+91-9876543268,Tech Solutions,Director Sales,SaaS,1-10,Trade Show
+L0852,Priya,Verma,priya.verma@zetaindustries.com,+91-9876543312,Zeta Industries,Sales Manager,Consulting,201-500,Referral
+L0058,Rohan,Singh,rohan.singh@innovlabs.com,+91-9876543315,Innov Labs,Marketing Manager,Logistics,5000+,LinkedIn
+L0604,Neha,Khanna,neha.khanna@brightservices.com,+91-9876543485,Bright Services,VP Marketing,E-commerce,1001-5000,LinkedIn
+L1090,Varun,Desai,varun.desai@betainnovations.com,+91-9876543032,Beta Innovations,CTO,SaaS,1-10,Referral
+L0657,Riya,Singh,riya.singh@innovlabs.com,+91-9876543157,Innov Labs,Sales Manager,Real Estate,1-10,Cold Call
+L1120,Neha,Sharma,neha.sharma@deltasystems.com,+91-9876543364,Delta Systems,VP Marketing,IT Services,51-200,Email Campaign
+L0794,Manish,Khanna,manish.khanna@zetaindustries.com,+91-9876543125,Zeta Industries,Director Operations,Consulting,1001-5000,Cold Call
+L0106,Pooja,Chopra,pooja.chopra@matrixcorp.com,+91-9876543768,Matrix Corp,Senior Consultant,Real Estate,501-1000,Trade Show
+L0636,Riya,Shah,riya.shah@cloudventures.com,+91-9876543775,Cloud Ventures,Business Analyst,SaaS,1001-5000,Website
+L0370,Tanya,Reddy,tanya.reddy@betainnovations.com,+91-9876543477,Beta Innovations,Account Manager,Insurance,51-200,Cold Call
+L0269,Varun,Malhotra,varun.malhotra@brightservices.com,+91-9876543654,Bright Services,CTO,Fintech,1001-5000,Trade Show
+L0656,Vikram,Roy,vikram.roy@sigmasolutions.com,+91-9876543866,Sigma Solutions,Director Operations,SaaS,51-200,Partner
+L0047,Gaurav,Joshi,gaurav.joshi@fusiontech.com,+91-9876543685,Fusion Tech,Sales Manager,E-commerce,51-200,Trade Show
+L0350,Divya,Patel,divya.patel@thetaanalytics.com,+91-9876543136,Theta Analytics,Marketing Manager,Fintech,11-50,Trade Show
+L0196,Amit,Patel,amit.patel@digitalsystems.com,+91-9876543442,Digital Systems,VP Sales,Retail,1001-5000,Email Campaign
+L0103,Nikhil,Malhotra,nikhil.malhotra@epsiloncorp.com,+91-9876543108,Epsilon Corp,Business Analyst,Cybersecurity,1001-5000,Partner
+L1020,Simran,Khanna,simran.khanna@innovlabs.com,+91-9876543465,Innov Labs,CFO,Cybersecurity,51-200,Website
+L0974,Pooja,Mehta,pooja.mehta@innovlabs.com,+91-9876543024,Innov Labs,Finance Manager,Fintech,1-10,Event
+L0850,Sanjay,Kapoor,sanjay.kapoor@zetaindustries.com,+91-9876543726,Zeta Industries,VP Sales,Cybersecurity,201-500,Website
+L0907,Ishita,Bansal,ishita.bansal@betainnovations.com,+91-9876543191,Beta Innovations,Finance Manager,Fintech,5000+,Cold Call
+L0264,Anjali,Kapoor,anjali.kapoor@nextgensolutions.com,+91-9876543997,NextGen Solutions,VP Engineering,Consulting,1001-5000,Partner
+L0923,Sneha,Mehta,sneha.mehta@thetaanalytics.com,+91-9876543080,Theta Analytics,Senior Consultant,Real Estate,11-50,Website
+L0444,Ananya,Bansal,ananya.bansal@smartanalytics.com,+91-9876543803,Smart Analytics,Director Sales,Media,11-50,LinkedIn
+L0833,Sneha,Khanna,sneha.khanna@sigmasolutions.com,+91-9876543153,Sigma Solutions,Sales Manager,Education,1001-5000,Event
+L0728,Amit,Bansal,amit.bansal@innovlabs.com,+91-9876543741,Innov Labs,HR Manager,Manufacturing,501-1000,Cold Call
+L0935,Siddharth,Bansal,siddharth.bansal@betainnovations.com,+91-9876543335,Beta Innovations,Team Lead,Insurance,1001-5000,LinkedIn
+L0305,Akash,Shah,akash.shah@thetaanalytics.com,+91-9876543961,Theta Analytics,Marketing Manager,Logistics,11-50,Event
+L0342,Amit,Agarwal,amit.agarwal@cloudventures.com,+91-9876543063,Cloud Ventures,Account Manager,Education,11-50,Referral
+L0744,Nikhil,Joshi,nikhil.joshi@fusiontech.com,+91-9876543234,Fusion Tech,Director Sales,Media,11-50,Email Campaign
+L0314,Sneha,Malhotra,sneha.malhotra@smartanalytics.com,+91-9876543422,Smart Analytics,Director Sales,Manufacturing,501-1000,Partner
+L0150,Divya,Singh,divya.singh@epsiloncorp.com,+91-9876543987,Epsilon Corp,CTO,IT Services,501-1000,Email Campaign
+L0125,Kavya,Bansal,kavya.bansal@epsiloncorp.com,+91-9876543298,Epsilon Corp,CTO,E-commerce,51-200,Cold Call
+L0963,Sneha,Patel,sneha.patel@smartanalytics.com,+91-9876543609,Smart Analytics,VP Marketing,Media,201-500,Trade Show
+L1005,Karan,Khanna,karan.khanna@innovlabs.com,+91-9876543367,Innov Labs,Senior Consultant,Fintech,501-1000,Email Campaign
+L0698,Neha,Desai,neha.desai@brightservices.com,+91-9876543854,Bright Services,Director Operations,Real Estate,501-1000,Referral
+L0665,Rahul,Mehta,rahul.mehta@nextgensolutions.com,+91-9876543526,NextGen Solutions,CFO,Fintech,11-50,LinkedIn
+L0051,Varun,Desai,varun.desai@techsolutions.com,+91-9876543683,Tech Solutions,Account Manager,Healthcare,1001-5000,Website
+L0354,Priya,Malhotra,priya.malhotra@omegatech.com,+91-9876543784,Omega Tech,CEO,E-commerce,11-50,Website
+L1077,Amit,Khanna,amit.khanna@betainnovations.com,+91-9876543797,Beta Innovations,Marketing Manager,Manufacturing,51-200,Referral
+L0143,Rohan,Nair,rohan.nair@epsiloncorp.com,+91-9876543249,Epsilon Corp,Senior Consultant,Education,11-50,Trade Show
+L0471,Aditya,Kapoor,aditya.kapoor@cloudventures.com,+91-9876543246,Cloud Ventures,Team Lead,Insurance,501-1000,Website
+L0654,Tanya,Mehta,tanya.mehta@quantumsystems.com,+91-9876543459,Quantum Systems,VP Engineering,Insurance,1-10,Referral
+L0400,Arjun,Khanna,arjun.khanna@digitalsystems.com,+91-9876543611,Digital Systems,Finance Manager,Logistics,51-200,Trade Show
+L0774,Nikhil,Shah,nikhil.shah@epsiloncorp.com,+91-9876543478,Epsilon Corp,Account Manager,Healthcare,501-1000,Partner
+L0321,Tanya,Singh,tanya.singh@quantumsystems.com,+91-9876543043,Quantum Systems,Product Manager,Retail,1-10,Email Campaign
+L0020,Kunal,Kumar,kunal.kumar@cloudventures.com,+91-9876543698,Cloud Ventures,Account Manager,Logistics,51-200,Email Campaign
+L0685,Riya,Malhotra,riya.malhotra@brightservices.com,+91-9876543860,Bright Services,Marketing Manager,IT Services,1001-5000,Email Campaign
+L0990,Aditya,Patel,aditya.patel@deltasystems.com,+91-9876543752,Delta Systems,Director Sales,IT Services,1-10,Event
+L0967,Divya,Kapoor,divya.kapoor@epsiloncorp.com,+91-9876543268,Epsilon Corp,VP Marketing,Education,5000+,Trade Show
+L0989,Divya,Mehta,divya.mehta@quantumsystems.com,+91-9876543712,Quantum Systems,HR Manager,Fintech,1001-5000,Email Campaign
+L0408,Varun,Mehta,varun.mehta@epsiloncorp.com,+91-9876543321,Epsilon Corp,VP Engineering,Manufacturing,51-200,Cold Call
+L0538,Pooja,Gupta,pooja.gupta@digitalsystems.com,+91-9876543350,Digital Systems,VP Engineering,Manufacturing,11-50,Website
+L0981,Karan,Bansal,karan.bansal@cloudventures.com,+91-9876543934,Cloud Ventures,Senior Consultant,Retail,51-200,Website
+L1021,Sanjay,Patel,sanjay.patel@gammatechnologies.com,+91-9876543100,Gamma Technologies,VP Sales,Consulting,11-50,Cold Call
+L0039,Ananya,Malhotra,ananya.malhotra@epsiloncorp.com,+91-9876543492,Epsilon Corp,Director Sales,Media,201-500,LinkedIn
+L0176,Vikram,Sharma,vikram.sharma@innovlabs.com,+91-9876543311,Innov Labs,Team Lead,Fintech,1-10,Event
+L0246,Divya,Desai,divya.desai@alphaenterprises.com,+91-9876543241,Alpha Enterprises,HR Manager,Fintech,51-200,Event
+L1013,Ananya,Singh,ananya.singh@epsiloncorp.com,+91-9876543331,Epsilon Corp,Director Marketing,SaaS,51-200,Referral
+L0825,Sanjay,Mehta,sanjay.mehta@nextgensolutions.com,+91-9876543022,NextGen Solutions,Director Operations,Education,501-1000,Referral
+L0926,Ananya,Shah,ananya.shah@nextgensolutions.com,+91-9876543464,NextGen Solutions,Team Lead,SaaS,1-10,Partner
+L0490,Divya,Patel,divya.patel@deltasystems.com,+91-9876543886,Delta Systems,Product Manager,Logistics,5000+,Cold Call
+L0155,Sanjay,Patel,sanjay.patel@gammatechnologies.com,+91-9876543100,Gamma Technologies,VP Sales,Consulting,11-50,Cold Call
+L0639,Gaurav,Desai,gaurav.desai@cybernetworks.com,+91-9876543708,Cyber Networks,Operations Manager,IT Services,1001-5000,Referral
+L0663,Priya,Shah,priya.shah@betainnovations.com,+91-9876543937,Beta Innovations,VP Sales,Manufacturing,51-200,Cold Call
+L0288,Meera,Roy,meera.roy@sigmasolutions.com,+91-9876543964,Sigma Solutions,Operations Manager,IT Services,11-50,Email Campaign
+L0626,Kunal,Kapoor,kunal.kapoor@betainnovations.com,+91-9876543836,Beta Innovations,Director Marketing,Fintech,201-500,Partner
+L0686,Anjali,Nair,anjali.nair@deltasystems.com,+91-9876543456,Delta Systems,Marketing Manager,Logistics,51-200,Partner
+L0994,Siddharth,Khanna,siddharth.khanna@smartanalytics.com,+91-9876543758,Smart Analytics,Operations Manager,E-commerce,1-10,LinkedIn
+L0570,Sanjay,Iyer,sanjay.iyer@epsiloncorp.com,+91-9876543608,Epsilon Corp,Senior Consultant,IT Services,5000+,Partner
+L0915,Neha,Desai,neha.desai@quantumsystems.com,+91-9876543023,Quantum Systems,Operations Manager,Logistics,51-200,Event
+L0735,Pooja,Roy,pooja.roy@gammatechnologies.com,+91-9876543518,Gamma Technologies,VP Sales,Education,1-10,Cold Call
+L0018,Nikhil,Gupta,nikhil.gupta@smartanalytics.com,+91-9876543642,Smart Analytics,VP Engineering,Logistics,1001-5000,Trade Show
+L0128,Amit,Sharma,amit.sharma@cybernetworks.com,+91-9876543811,Cyber Networks,Product Manager,Real Estate,1001-5000,Cold Call
+L0323,Gaurav,Khanna,gaurav.khanna@brightservices.com,+91-9876543140,Bright Services,VP Sales,Real Estate,1001-5000,Event
+L0256,Divya,Nair,divya.nair@innovlabs.com,+91-9876543650,Innov Labs,HR Manager,Cybersecurity,51-200,LinkedIn
+L0812,Priya,Iyer,priya.iyer@matrixcorp.com,+91-9876543620,Matrix Corp,CFO,SaaS,11-50,Partner
+L1103,Aditya,Singh,aditya.singh@sigmasolutions.com,+91-9876543647,Sigma Solutions,Director Operations,Insurance,201-500,Trade Show
+L0191,Amit,Singh,amit.singh@brightservices.com,+91-9876543639,Bright Services,Operations Manager,Education,1001-5000,Email Campaign
+L0116,Riya,Khanna,riya.khanna@smartanalytics.com,+91-9876543280,Smart Analytics,CTO,SaaS,501-1000,Cold Call
+L1097,Rohana,Singh,rohan.singh@brightservices.com,+91-9876543653,Bright Services,Director Marketing,Media,1-10,Cold Call
+L0765,Nikhil,Roy,nikhil.roy@nextgensolutions.com,+91-9876543431,NextGen Solutions,Finance Manager,Real Estate,201-500,Website
+L0607,Akash,Gupta,akash.gupta@epsiloncorp.com,+91-9876543203,Epsilon Corp,Finance Manager,E-commerce,5000+,Cold Call
+L0181,Karan,Gupta,karan.gupta@deltasystems.com,+91-9876543093,Delta Systems,Director Sales,Insurance,1001-5000,LinkedIn
+L0302,Manish,Iyer,manish.iyer@betainnovations.com,+91-9876543374,Beta Innovations,CTO,Manufacturing,1-10,Event
+L0932,Ishita,Shah,ishita.shah@thetaanalytics.com,+91-9876543710,Theta Analytics,Director Marketing,IT Services,1001-5000,Website
+L0878,Riya,Gupta,riya.gupta@digitalsystems.com,+91-9876543116,Digital Systems,Senior Consultant,Insurance,51-200,Website
+L1008,Gaurav,Sharma,gaurav.sharma@omegatech.com,+91-9876543892,Omega Tech,CFO,Cybersecurity,201-500,Event
+L0844,Nikhil,Reddy,nikhil.reddy@techsolutions.com,+91-9876543351,Tech Solutions,VP Sales,Healthcare,201-500,Partner
+L0955,Anjali,Shah,anjali.shah@thetaanalytics.com,+91-9876543797,Theta Analytics,CEO,Consulting,201-500,Partner
+L0945,Vikram,Kumar,vikram.kumar@digitalsystems.com,+91-9876543663,Digital Systems,CEO,IT Services,1001-5000,Partner
+L0518,Meera,Iyer,meera.iyer@sigmasolutions.com,+91-9876543238,Sigma Solutions,VP Engineering,Fintech,11-50,Event
+L0373,Manish,Singh,manish.singh@techsolutions.com,+91-9876543267,Tech Solutions,Account Manager,Real Estate,501-1000,Trade Show
+L0046,Varun,Patel,varun.patel@gammatechnologies.com,+91-9876543673,Gamma Technologies,Operations Manager,Real Estate,501-1000,Email Campaign
+L0477,Amit,Desai,amit.desai@fusiontech.com,+91-9876543997,Fusion Tech,VP Marketing,Education,51-200,Trade Show
+L0158,Ananya,Roy,ananya.roy@digitalsystems.com,+91-9876543624,Digital Systems,HR Manager,Real Estate,1001-5000,Event
+L0916,Sneha,Mehta,sneha.mehta@fusiontech.com,+91-9876543293,Fusion Tech,Director Operations,Education,51-200,Partner
+L0172,Amit,Kapoor,amit.kapoor@techsolutions.com,+91-9876543270,Tech Solutions,Account Manager,Fintech,201-500,Email Campaign
+L0017,Arjun,Verma,arjun.verma@smartanalytics.com,+91-9876543521,Smart Analytics,Team Lead,Fintech,5000+,LinkedIn
+L0512,Gaurav,Roy,gaurav.roy@brightservices.com,+91-9876543286,Bright Services,Senior Consultant,IT Services,1-10,Event
+L0049,Amit,Khanna,amit.khanna@fusiontech.com,+91-9876543518,Fusion Tech,Director Operations,IT Services,51-200,Website
+L0192,Divya,Bansal,divya.bansal@zetaindustries.com,+91-9876543301,Zeta Industries,Senior Consultant,Education,501-1000,Trade Show
+L0547,Kavya,Sharma,kavya.sharma@brightservices.com,+91-9876543450,Bright Services,Senior Consultant,Healthcare,11-50,Cold Call
+L0516,Arjun,Agarwal,arjun.agarwal@zetaindustries.com,+91-9876543329,Zeta Industries,HR Manager,Healthcare,11-50,LinkedIn
+L0987,Divya,Sharma,divya.sharma@digitalsystems.com,+91-9876543374,Digital Systems,Account Manager,Media,51-200,Website
+L0845,Rajesh,Shah,rajesh.shah@fusiontech.com,+91-9876543757,Fusion Tech,Account Manager,E-commerce,11-50,Cold Call
+L0481,Aditya,Iyer,aditya.iyer@zetaindustries.com,+91-9876543529,Zeta Industries,Director Operations,IT Services,51-200,Referral
+L0284,Vikram,Khanna,vikram.khanna@sigmasolutions.com,+91-9876543186,Sigma Solutions,VP Marketing,Manufacturing,501-1000,LinkedIn
+L0890,Gaurav,Sharma,gaurav.sharma@digitalsystems.com,+91-9876543786,Digital Systems,Product Manager,Cybersecurity,51-200,Trade Show
+L0808,Tanya,Khanna,tanya.khanna@smartanalytics.com,+91-9876543627,Smart Analytics,Product Manager,Cybersecurity,201-500,Email Campaign
+L0226,Sneha,Bansal,sneha.bansal@epsiloncorp.com,+91-9876543513,Epsilon Corp,VP Marketing,SaaS,201-500,Website
+L0027,Siddharth,Nair,siddharth.nair@thetaanalytics.com,+91-9876543169,Theta Analytics,Director Operations,Education,5000+,Trade Show
+L0959,Rahul,Nair,rahul.nair@digitalsystems.com,+91-9876543129,Digital Systems,Project Manager,Fintech,5000+,Cold Call
+L1074,Manish,Singh,manish.singh@techsolutions.com,+91-9876543593,Tech Solutions,Account Manager,Real Estate,501-1000,Trade Show
+L0438,Rahul,Sharma,rahul.sharma@brightservices.com,+91-9876543230,Bright Services,Account Manager,Healthcare,11-50,Partner
+L1091,Tanyaa,Shah,tanya.shah@smartanalytics.com,+91-9876543061,Smart Analytics,VP Sales,Media,501-1000,Referral
+L0365,Nisha,Patel,nisha.patel@deltasystems.com,+91-9876543867,Delta Systems,Marketing Manager,Fintech,501-1000,Event
+L0230,Amit,Shah,amit.shah@cloudventures.com,+91-9876543571,Cloud Ventures,HR Manager,Healthcare,51-200,Referral
+L0038,Priya,Khanna,priya.khanna@techsolutions.com,+91-9876543992,Tech Solutions,CFO,Logistics,5000+,Event
+L0670,Gaurav,Joshi,gaurav.joshi@gammatechnologies.com,+91-9876543397,Gamma Technologies,Senior Consultant,Insurance,201-500,Trade Show
+L0750,Divya,Roy,divya.roy@deltasystems.com,+91-9876543999,Delta Systems,VP Sales,Retail,501-1000,Partner
+L1104,Manish,Singh,manish.singh@techsolutions.com,+91-9876543470,Tech Solutions Ltd,Sales Manager,SaaS,1-10,Website
+L0375,Aditya,Khanna,aditya.khanna@nextgensolutions.com,+91-9876543263,NextGen Solutions,Team Lead,Retail,1001-5000,Partner
+L0470,Manish,Kapoor,manish.kapoor@quantumsystems.com,+91-9876543661,Quantum Systems,CTO,Logistics,5000+,Event
+L1105,Nisha,Patel,nisha.patel@innovlabs.com,+91-9876543772,Innov Labs Inc,CEO,E-commerce,11-50,LinkedIn
+L0688,Nikhil,Singh,nikhil.singh@thetaanalytics.com,+91-9876543201,Theta Analytics,Director Operations,Retail,1001-5000,Website
+L0033,Manish,Agarwal,manish.agarwal@sigmasolutions.com,+91-9876543484,Sigma Solutions,Director Marketing,Logistics,201-500,Trade Show
+L0865,Vikram,Desai,vikram.desai@omegatech.com,+91-9876543480,Omega Tech,Marketing Manager,IT Services,5000+,Trade Show
+L0895,Meera,Agarwal,meera.agarwal@omegatech.com,+91-9876543362,Omega Tech,VP Marketing,Real Estate,501-1000,Partner
+L0195,Rohan,Shah,rohan.shah@brightservices.com,+91-9876543383,Bright Services,VP Marketing,Insurance,201-500,Website
+L1036,Kavya,Chopra,kchopra@deltasystems.com,+91-9876543691,Delta Systems,Director Sales,Education,201-500,Referral
+L1043,Kavya,Kumar,kavya.k@innovlabs.com,+91-9876543490,Innov Labs,HR Manager,Manufacturing,1001-5000,Website
+L0504,Vikram,Patel,vikram.patel@matrixcorp.com,+91-9876543991,Matrix Corp,Marketing Manager,Manufacturing,501-1000,LinkedIn
+L1106,Kavya,Iyer,kavya.iyer@fusiontech.com,+91-9876543643,Fusion Technologies,VP Marketing,Manufacturing,501-1000,Partner
+L1016,Rahul,Sharma,rahul.sharma@brightservices.com,+91-9876543230,Bright Services,Account Manager,Healthcare,11-50,Website
+L0801,Akash,Chopra,akash.chopra@fusiontech.com,+91-9876543021,Fusion Tech,HR Manager,Cybersecurity,1001-5000,Referral
+L0580,Nisha,Reddy,nisha.reddy@fusiontech.com,+91-9876543153,Fusion Tech,Project Manager,Logistics,11-50,LinkedIn
+L0161,Amit,Chopra,amit.chopra@alphaenterprises.com,+91-9876543601,Alpha Enterprises,Product Manager,Insurance,201-500,Cold Call
+L0681,Manish,Agarwal,manish.agarwal@epsiloncorp.com,+91-9876543974,Epsilon Corp,Sales Manager,Cybersecurity,11-50,Event
+L1057,Vikram,Patel,vikram.p@matrixcorp.com,+91-9876543991,Matrix Corp,Marketing Manager,Manufacturing,501-1000,LinkedIn
+L0163,Ishita,Iyer,ishita.iyer@sigmasolutions.com,+91-9876543302,Sigma Solutions,Product Manager,SaaS,5000+,Trade Show
+L0706,Vikram,Desai,vikram.desai@innovlabs.com,+91-9876543912,Innov Labs,Operations Manager,IT Services,1-10,Referral
+L0863,Neha,Singh,neha.singh@cybernetworks.com,+91-9876543026,Cyber Networks,Finance Manager,Real Estate,51-200,Event
+L0153,Nisha,Patel,nisha.patel@nextgensolutions.com,+91-9876543872,NextGen Solutions,Account Manager,Manufacturing,51-200,Partner
+L0840,Neha,Malhotra,neha.malhotra@gammatechnologies.com,+91-9876543374,Gamma Technologies,Marketing Manager,E-commerce,51-200,Email Campaign
+L0860,Nisha,Agarwal,nisha.agarwal@cybernetworks.com,+91-9876543325,Cyber Networks,CFO,Education,501-1000,Website
+L0928,Varun,Agarwal,varun.agarwal@smartanalytics.com,+91-9876543520,Smart Analytics,VP Sales,Manufacturing,5000+,Website
+L0112,Rohan,Khanna,rohan.khanna@nextgensolutions.com,+91-9876543360,NextGen Solutions,Senior Consultant,Healthcare,51-200,Cold Call
+L0227,Akash,Shah,akash.shah@digitalsystems.com,+91-9876543516,Digital Systems,VP Engineering,SaaS,11-50,Partner
+L0847,Divya,Agarwal,divya.agarwal@zetaindustries.com,+91-9876543044,Zeta Industries,Director Operations,IT Services,1-10,Cold Call
+L0104,Riya,Singh,riya.singh@gammatechnologies.com,+91-9876543180,Gamma Technologies,Project Manager,Insurance,51-200,Partner
+L0422,Aditya,Gupta,aditya.gupta@deltasystems.com,+91-9876543739,Delta Systems,Senior Consultant,Cybersecurity,1-10,Cold Call
+L0420,Aditya,Gupta,aditya.gupta@quantumsystems.com,+91-9876543425,Quantum Systems,CFO,Fintech,5000+,Referral
+L0922,Ananya,Bansal,ananya.bansal@sigmasolutions.com,+91-9876543644,Sigma Solutions,Senior Consultant,Real Estate,51-200,Cold Call
+L0587,Rohan,Shah,rohan.shah@alphaenterprises.com,+91-9876543266,Alpha Enterprises,Operations Manager,Healthcare,201-500,Website
+L1076,Karana,Khanna,karan.khanna@fusiontech.com,+91-9876543919,Fusion Tech,Product Manager,Manufacturing,1001-5000,Email Campaign
+L0673,Rahul,Reddy,rahul.reddy@omegatech.com,+91-9876543088,Omega Tech,Product Manager,Logistics,201-500,Trade Show
+L0120,Vikram,Singh,vikram.singh@sigmasolutions.com,+91-9876543971,Sigma Solutions,Product Manager,Fintech,11-50,Website
+L0054,Meera,Nair,meera.nair@brightservices.com,+91-9876543927,Bright Services,CTO,Fintech,1001-5000,Trade Show
+L0152,Rohan,Singh,rohan.singh@digitalsystems.com,+91-9876543480,Digital Systems,Director Operations,Cybersecurity,501-1000,Trade Show
+L0404,Rohan,Reddy,rohan.reddy@epsiloncorp.com,+91-9876543801,Epsilon Corp,CFO,Cybersecurity,51-200,Event
+L1112,Manish,Kumar,manish.kumar@sigmasolutions.com,+91-9876543516,Sigma Solutions Ltd,VP Engineering,Fintech,51-200,LinkedIn
+L0208,Karan,Desai,karan.desai@cloudventures.com,+91-9876543353,Cloud Ventures,Business Analyst,Fintech,51-200,Partner
+L1061,Manish,Joshi,manish.j@cloudventures.com,+91-9876543789,Cloud Ventures,CEO,Cybersecurity,5000+,Trade Show
+L0659,Meera,Verma,meera.verma@cybernetworks.com,+91-9876543533,Cyber Networks,CFO,Logistics,501-1000,Referral
+L1029,Sanjay,Nair,sanjay.nair@techsolutions.com,+91-9876543369,Tech Solutions,Account Manager,Real Estate,51-200,Trade Show
+L0936,Amit,Mehta,amit.mehta@smartanalytics.com,+91-9876543908,Smart Analytics,Operations Manager,Logistics,1001-5000,LinkedIn
+L0009,Siddharth,Verma,siddharth.verma@quantumsystems.com,+91-9876543081,Quantum Systems,Director Marketing,Media,1-10,Trade Show
+L0988,Simran,Chopra,simran.chopra@quantumsystems.com,+91-9876543663,Quantum Systems,Director Sales,IT Services,501-1000,LinkedIn
+L0037,Pooja,Chopra,pooja.chopra@matrixcorp.com,+91-9876543895,Matrix Corp,CFO,Consulting,5000+,Website
+L0453,Karan,Malhotra,karan.malhotra@fusiontech.com,+91-9876543506,Fusion Tech,Director Operations,Cybersecurity,5000+,Cold Call
+L0652,Kunal,Sharma,kunal.sharma@techsolutions.com,+91-9876543761,Tech Solutions,Director Operations,E-commerce,501-1000,Partner
+L0254,Varun,Iyer,varun.iyer@matrixcorp.com,+91-9876543584,Matrix Corp,Business Analyst,IT Services,1001-5000,Website
+L0304,Simran,Bansal,simran.bansal@omegatech.com,+91-9876543121,Omega Tech,VP Marketing,Fintech,201-500,Email Campaign
+L0918,Varun,Khanna,varun.khanna@zetaindustries.com,+91-9876543104,Zeta Industries,Director Sales,Education,51-200,Email Campaign
+L0572,Rahul,Kumar,rahul.kumar@betainnovations.com,+91-9876543050,Beta Innovations,VP Engineering,Media,501-1000,Event
+L0624,Nisha,Roy,nisha.roy@zetaindustries.com,+91-9876543869,Zeta Industries,Team Lead,Media,201-500,Referral
+L0873,Karan,Reddy,karan.reddy@deltasystems.com,+91-9876543407,Delta Systems,Product Manager,Logistics,5000+,Cold Call
+L0885,Rohan,Chopra,rohan.chopra@digitalsystems.com,+91-9876543615,Digital Systems,Finance Manager,SaaS,11-50,Cold Call
+L0875,Kavya,Chopra,kavya.chopra@digitalsystems.com,+91-9876543739,Digital Systems,Project Manager,Fintech,11-50,Referral
+L0263,Nikhil,Shah,nikhil.shah@brightservices.com,+91-9876543127,Bright Services,Marketing Manager,Manufacturing,201-500,Partner
+L0611,Amit,Desai,amit.desai@digitalsystems.com,+91-9876543740,Digital Systems,VP Sales,Healthcare,1001-5000,Event
+L0298,Tanya,Roy,tanya.roy@epsiloncorp.com,+91-9876543527,Epsilon Corp,Senior Consultant,Consulting,51-200,Partner
+L0415,Kunal,Sharma,kunal.sharma@alphaenterprises.com,+91-9876543718,Alpha Enterprises,Account Manager,Real Estate,1001-5000,Website
+L0151,Nikhil,Gupta,nikhil.gupta@deltasystems.com,+91-9876543102,Delta Systems,Project Manager,Consulting,1-10,Referral
+L0965,Karan,Agarwal,karan.agarwal@alphaenterprises.com,+91-9876543055,Alpha Enterprises,Director Operations,Logistics,5000+,Website
+L0779,Kunal,Kumar,kunal.kumar@epsiloncorp.com,+91-9876543969,Epsilon Corp,Team Lead,Healthcare,1-10,Trade Show
+L0641,Varun,Verma,varun.verma@brightservices.com,+91-9876543407,Bright Services,Sales Manager,Healthcare,201-500,Referral
+L1056,Akash,Nair,akash.n@alphaenterprises.com,+91-9876543474,Alpha Enterprises,CTO,Cybersecurity,1-10,Referral
+L0551,Ishita,Verma,ishita.verma@epsiloncorp.com,+91-9876543306,Epsilon Corp,CFO,Manufacturing,5000+,LinkedIn
+L0968,Rajesh,Reddy,rajesh.reddy@deltasystems.com,+91-9876543391,Delta Systems,Sales Manager,Education,1001-5000,LinkedIn
+L0489,Ishita,Iyer,ishita.iyer@cloudventures.com,+91-9876543514,Cloud Ventures,CTO,IT Services,11-50,LinkedIn
+L0820,Siddharth,Roy,siddharth.roy@thetaanalytics.com,+91-9876543614,Theta Analytics,Senior Consultant,Cybersecurity,51-200,Email Campaign
+L0711,Sanjay,Kapoor,sanjay.kapoor@betainnovations.com,+91-9876543135,Beta Innovations,VP Sales,SaaS,11-50,Trade Show
+L1004,Amit,Desai,amit.desai@deltasystems.com,+91-9876543828,Delta Systems,CTO,Consulting,11-50,Referral
+L0148,Kavya,Shah,kavya.shah@fusiontech.com,+91-9876543714,Fusion Tech,Director Marketing,Real Estate,201-500,Event
+L0147,Kunal,Nair,kunal.nair@alphaenterprises.com,+91-9876543340,Alpha Enterprises,Account Manager,Logistics,501-1000,Trade Show
+L0887,Priya,Singh,priya.singh@innovlabs.com,+91-9876543683,Innov Labs,Operations Manager,Media,501-1000,Cold Call
+L0346,Manish,Kumar,manish.kumar@betainnovations.com,+91-9876543260,Beta Innovations,CEO,Retail,11-50,Website
+L0910,Arjun,Sharma,arjun.sharma@fusiontech.com,+91-9876543935,Fusion Tech,CFO,Consulting,501-1000,LinkedIn
+L1052,Pooja,Mehta,pooja.m@innovlabs.com,+91-9876543024,Innov Labs,Finance Manager,Fintech,1-10,Event
+L0660,Rohan,Khanna,rohan.khanna@thetaanalytics.com,+91-9876543413,Theta Analytics,CFO,Cybersecurity,11-50,Event
+L0771,Rajesh,Kapoor,rajesh.kapoor@zetaindustries.com,+91-9876543783,Zeta Industries,CFO,Fintech,51-200,Referral
+L0349,Tanya,Malhotra,tanya.malhotra@alphaenterprises.com,+91-9876543912,Alpha Enterprises,HR Manager,Consulting,5000+,Trade Show
+L0464,Nisha,Singh,nisha.singh@digitalsystems.com,+91-9876543543,Digital Systems,Operations Manager,SaaS,501-1000,Referral
+L0326,Rohan,Nair,rohan.nair@epsiloncorp.com,+91-9876543666,Epsilon Corp,Director Sales,Logistics,51-200,Email Campaign
+L0187,Meera,Gupta,meera.gupta@digitalsystems.com,+91-9876543487,Digital Systems,Senior Consultant,Logistics,51-200,Website
+L0124,Ananya,Verma,ananya.verma@cybernetworks.com,+91-9876543565,Cyber Networks,CFO,IT Services,1-10,Trade Show
+L1035,Priya,Patel,priya.p@brightservices.com,+91-9876543670,Bright Services,Sales Manager,SaaS,1001-5000,Event
+L0609,Kunal,Nair,kunal.nair@fusiontech.com,+91-9876543704,Fusion Tech,Team Lead,Cybersecurity,11-50,LinkedIn
+L0144,Karan,Bansal,karan.bansal@zetaindustries.com,+91-9876543764,Zeta Industries,VP Marketing,Media,1-10,Cold Call
+L0752,Sneha,Iyer,sneha.iyer@omegatech.com,+91-9876543882,Omega Tech,Director Operations,IT Services,501-1000,Cold Call
+L1098,Poojaa,Reddy,pooja.reddy@omegatech.com,+91-9876543927,Omega Tech,Sales Manager,E-commerce,1001-5000,Cold Call
+L0198,Siddharth,Gupta,siddharth.gupta@gammatechnologies.com,+91-9876543362,Gamma Technologies,Business Analyst,Media,1001-5000,LinkedIn
+L0610,Rajesh,Patel,rajesh.patel@cloudventures.com,+91-9876543855,Cloud Ventures,Operations Manager,Insurance,201-500,Referral
+L0884,Varun,Nair,varun.nair@matrixcorp.com,+91-9876543222,Matrix Corp,Operations Manager,Insurance,201-500,Partner
+L0837,Amit,Kapoor,amit.kapoor@zetaindustries.com,+91-9876543444,Zeta Industries,VP Marketing,Logistics,11-50,Partner
+L0280,Sanjay,Nair,sanjay.nair@techsolutions.com,+91-9876543369,Tech Solutions,Account Manager,Real Estate,51-200,Partner
+L0294,Manish,Iyer,manish.iyer@betainnovations.com,+91-9876543133,Beta Innovations,Marketing Manager,Education,501-1000,Website
+L1059,Kavya,Roy,kroy@alphaenterprises.com,+91-9876543173,Alpha Enterprises,VP Marketing,Retail,501-1000,Partner
+L0401,Rajesh,Reddy,rajesh.reddy@gammatechnologies.com,+91-9876543397,Gamma Technologies,CFO,Retail,501-1000,Event
+L0123,Varun,Gupta,varun.gupta@fusiontech.com,+91-9876543640,Fusion Tech,Director Sales,Healthcare,1001-5000,Website
+L0184,Pooja,Singh,pooja.singh@smartanalytics.com,+91-9876543553,Smart Analytics,Director Operations,Logistics,11-50,Website
+L0203,Gaurav,Shah,gaurav.shah@alphaenterprises.com,+91-9876543006,Alpha Enterprises,VP Engineering,Media,11-50,Trade Show
+L0439,Ishita,Nair,ishita.nair@thetaanalytics.com,+91-9876543523,Theta Analytics,VP Sales,Real Estate,1-10,Cold Call
+L0836,Amit,Nair,amit.nair@sigmasolutions.com,+91-9876543763,Sigma Solutions,CTO,Education,201-500,Cold Call
+L0247,Rajesh,Shah,rajesh.shah@cloudventures.com,+91-9876543859,Cloud Ventures,Sales Manager,Logistics,11-50,Referral
+L0416,Neha,Verma,neha.verma@alphaenterprises.com,+91-9876543170,Alpha Enterprises,Finance Manager,SaaS,501-1000,Trade Show
+L0952,Riya,Patel,riya.patel@smartanalytics.com,+91-9876543747,Smart Analytics,Project Manager,Media,5000+,Cold Call
+L0939,Gaurav,Malhotra,gaurav.malhotra@alphaenterprises.com,+91-9876543091,Alpha Enterprises,Operations Manager,SaaS,501-1000,Trade Show
+L1066,Kunal,Mehta,kunal.m@gammatechnologies.com,+91-9876543104,Gamma Technologies,Director Marketing,Healthcare,5000+,LinkedIn
+L1024,Pooja,Roy,pooja.roy@digitalsystems.com,+91-9876543283,Digital Systems,CTO,Manufacturing,201-500,Referral
+L0053,Pooja,Reddy,pooja.reddy@omegatech.com,+91-9876543215,Omega Tech,Sales Manager,E-commerce,1001-5000,Cold Call
+L0130,Meera,Khanna,meera.khanna@epsiloncorp.com,+91-9876543448,Epsilon Corp,CFO,Real Estate,1-10,Trade Show
+L0638,Rajesh,Desai,rajesh.desai@innovlabs.com,+91-9876543566,Innov Labs,Business Analyst,Media,501-1000,Partner
+L0403,Rahul,Joshi,rahul.joshi@epsiloncorp.com,+91-9876543149,Epsilon Corp,CFO,IT Services,201-500,Cold Call
+L1071,Amita,Kapoor,amit.kapoor@zetaindustries.com,+91-9876543496,Zeta Industries,VP Marketing,Logistics,11-50,Partner
+L0946,Siddharth,Malhotra,siddharth.malhotra@smartanalytics.com,+91-9876543086,Smart Analytics,VP Marketing,Insurance,5000+,Trade Show
+L0736,Sneha,Gupta,sneha.gupta@zetaindustries.com,+91-9876543979,Zeta Industries,Director Operations,Education,5000+,Cold Call
+L0855,Sanjay,Singh,sanjay.singh@nextgensolutions.com,+91-9876543918,NextGen Solutions,HR Manager,Insurance,11-50,Website
+L1069,Nisha,Reddy,nisha.r@epsiloncorp.com,+91-9876543421,Epsilon Corp,Account Manager,Consulting,1-10,Website
+L0220,Tanya,Patel,tanya.patel@cybernetworks.com,+91-9876543974,Cyber Networks,Team Lead,Consulting,5000+,Partner
+L0642,Vikram,Malhotra,vikram.malhotra@omegatech.com,+91-9876543716,Omega Tech,Project Manager,Healthcare,5000+,Email Campaign
+L0002,Manish,Gupta,manish.gupta@thetaanalytics.com,+91-9876543089,Theta Analytics,Operations Manager,Manufacturing,1-10,LinkedIn
+L0924,Simran,Chopra,simran.chopra@cloudventures.com,+91-9876543466,Cloud Ventures,Product Manager,Insurance,1001-5000,Partner
+L0986,Divya,Nair,divya.nair@cloudventures.com,+91-9876543580,Cloud Ventures,Account Manager,Cybersecurity,51-200,Cold Call
+L0081,Siddharth,Desai,siddharth.desai@thetaanalytics.com,+91-9876543609,Theta Analytics,Sales Manager,Logistics,201-500,Trade Show
+L0625,Amit,Nair,amit.nair@nextgensolutions.com,+91-9876543246,NextGen Solutions,Sales Manager,Healthcare,1-10,Event
+L1025,Rohan,Nair,rohan.nair@epsiloncorp.com,+91-9876543666,Epsilon Corp,Director Sales,Logistics,51-200,Event
+L0934,Kunal,Gupta,kunal.gupta@deltasystems.com,+91-9876543180,Delta Systems,Product Manager,Manufacturing,1-10,Website
+L0387,Ishita,Gupta,ishita.gupta@zetaindustries.com,+91-9876543941,Zeta Industries,CTO,E-commerce,11-50,Partner
+L1108,Ananya,Bansal,ananya.bansal@nextgensolutions.com,+91-9876543943,NextGen Solutions Ltd,Finance Manager,E-commerce,1001-5000,Website
+L0807,Sneha,Patel,sneha.patel@thetaanalytics.com,+91-9876543838,Theta Analytics,HR Manager,E-commerce,501-1000,Partner
+L0510,Neha,Sharma,neha.sharma@deltasystems.com,+91-9876543051,Delta Systems,VP Engineering,Real Estate,201-500,Trade Show
+L0268,Riya,Chopra,riya.chopra@alphaenterprises.com,+91-9876543457,Alpha Enterprises,CTO,Retail,5000+,Email Campaign
+L1001,Karan,Gupta,karan.gupta@cybernetworks.com,+91-9876543687,Cyber Networks,Operations Manager,Media,1-10,Cold Call
+L0442,Kavya,Joshi,kavya.joshi@alphaenterprises.com,+91-9876543882,Alpha Enterprises,CFO,Consulting,5000+,Website
+L0497,Riya,Iyer,riya.iyer@deltasystems.com,+91-9876543997,Delta Systems,CFO,Real Estate,1-10,Referral
+L0830,Priya,Agarwal,priya.agarwal@betainnovations.com,+91-9876543080,Beta Innovations,CTO,Logistics,51-200,Email Campaign
+L0113,Sanjay,Gupta,sanjay.gupta@fusiontech.com,+91-9876543323,Fusion Tech,VP Sales,Retail,501-1000,Referral
+L0692,Vikram,Chopra,vikram.chopra@zetaindustries.com,+91-9876543522,Zeta Industries,CFO,Manufacturing,51-200,LinkedIn
+L0233,Simran,Singh,simran.singh@zetaindustries.com,+91-9876543095,Zeta Industries,Business Analyst,Education,51-200,LinkedIn
+L0472,Meera,Kumar,meera.kumar@alphaenterprises.com,+91-9876543956,Alpha Enterprises,Sales Manager,IT Services,201-500,Trade Show
+L0608,Simran,Desai,simran.desai@fusiontech.com,+91-9876543366,Fusion Tech,Business Analyst,Healthcare,11-50,LinkedIn
+L0672,Tanya,Agarwal,tanya.agarwal@innovlabs.com,+91-9876543717,Innov Labs,CFO,Cybersecurity,501-1000,Website
+L0374,Rahul,Singh,rahul.singh@fusiontech.com,+91-9876543337,Fusion Tech,Director Marketing,Manufacturing,501-1000,Event
+L0827,Anjali,Agarwal,anjali.agarwal@matrixcorp.com,+91-9876543238,Matrix Corp,Director Operations,Logistics,51-200,Website
+L0664,Rajesh,Desai,rajesh.desai@alphaenterprises.com,+91-9876543526,Alpha Enterprises,Project Manager,Consulting,201-500,LinkedIn
+L1028,Varun,Reddy,varun.reddy@epsiloncorp.com,+91-9876543204,Epsilon Corp,VP Sales,IT Services,5000+,Partner
+L0234,Arjun,Reddy,arjun.reddy@cybernetworks.com,+91-9876543973,Cyber Networks,Director Sales,Cybersecurity,5000+,Partner
+L0819,Anjali,Gupta,anjali.gupta@cybernetworks.com,+91-9876543811,Cyber Networks,VP Engineering,Education,201-500,Email Campaign
+L0962,Arjun,Roy,arjun.roy@brightservices.com,+91-9876543801,Bright Services,Director Marketing,Consulting,11-50,LinkedIn
+L0677,Kunal,Khanna,kunal.khanna@digitalsystems.com,+91-9876543312,Digital Systems,Director Sales,Retail,1001-5000,Email Campaign
+L0318,Kunal,Reddy,kunal.reddy@matrixcorp.com,+91-9876543964,Matrix Corp,Product Manager,Logistics,51-200,Event
+L0649,Karan,Khanna,karan.khanna@innovlabs.com,+91-9876543367,Innov Labs,Senior Consultant,Fintech,501-1000,Event
+L0411,Siddharth,Khanna,siddharth.khanna@techsolutions.com,+91-9876543975,Tech Solutions,Senior Consultant,Retail,11-50,Partner
+L1060,Amit,Shah,ashah@brightservices.com,+91-9876543655,Bright Services,Sales Manager,Media,51-200,Cold Call
+L0710,Varun,Desai,varun.desai@brightservices.com,+91-9876543171,Bright Services,Sales Manager,Consulting,501-1000,Website
+L0359,Pooja,Sharma,pooja.sharma@thetaanalytics.com,+91-9876543971,Theta Analytics,Operations Manager,Retail,11-50,Trade Show
+L0259,Simran,Chopra,simran.chopra@epsiloncorp.com,+91-9876543646,Epsilon Corp,VP Engineering,Logistics,11-50,Website
+L0745,Vikram,Gupta,vikram.gupta@cloudventures.com,+91-9876543942,Cloud Ventures,CFO,Insurance,1001-5000,Partner
+L0628,Aditya,Kumar,aditya.kumar@cloudventures.com,+91-9876543413,Cloud Ventures,Business Analyst,SaaS,501-1000,LinkedIn
+L0633,Simran,Reddy,simran.reddy@thetaanalytics.com,+91-9876543534,Theta Analytics,Marketing Manager,Retail,1-10,LinkedIn
+L0970,Sneha,Joshi,sneha.joshi@brightservices.com,+91-9876543821,Bright Services,VP Sales,Healthcare,1001-5000,Trade Show
+L0283,Vikram,Shah,vikram.shah@digitalsystems.com,+91-9876543460,Digital Systems,Senior Consultant,Insurance,501-1000,Email Campaign
+L0377,Ananya,Khanna,ananya.khanna@innovlabs.com,+91-9876543536,Innov Labs,CTO,Media,5000+,Website
+L0385,Rahul,Patel,rahul.patel@innovlabs.com,+91-9876543095,Innov Labs,HR Manager,Manufacturing,201-500,Partner
+L0225,Kavya,Agarwal,kavya.agarwal@thetaanalytics.com,+91-9876543977,Theta Analytics,CTO,Consulting,5000+,Event
+L1095,Kavya,Roy,kavya.roy@alphaenterprises.com,+91-9876543907,Alpha Enterprises,VP Marketing,Retail,501-1000,Partner
+L0995,Manish,Singh,manish.singh@epsiloncorp.com,+91-9876543669,Epsilon Corp,CEO,Consulting,501-1000,LinkedIn
+L0473,Arjun,Khanna,arjun.khanna@cybernetworks.com,+91-9876543781,Cyber Networks,Team Lead,Logistics,1-10,LinkedIn
+L0348,Gaurav,Nair,gaurav.nair@innovlabs.com,+91-9876543293,Innov Labs,Business Analyst,IT Services,5000+,Referral
+L0506,Kunal,Khanna,kunal.khanna@matrixcorp.com,+91-9876543096,Matrix Corp,Senior Consultant,Fintech,5000+,Referral
+L0640,Neha,Kapoor,neha.kapoor@omegatech.com,+91-9876543620,Omega Tech,Sales Manager,Education,201-500,Trade Show
+L1115,Nisha,Reddy,nisha.reddy@matrixcorp.com,+91-9876543258,Matrix Corp Inc,VP Marketing,Retail,201-500,Trade Show
+L1092,Rahul,Chopra,rahul.chopra@nextgensolutions.com,+91-9876543113,NextGen Solutions,Business Analyst,Real Estate,1001-5000,Website
+L0798,Riya,Bansal,riya.bansal@smartanalytics.com,+91-9876543380,Smart Analytics,CFO,E-commerce,11-50,Partner
+L0340,Manish,Bansal,manish.bansal@alphaenterprises.com,+91-9876543425,Alpha Enterprises,Account Manager,Consulting,5000+,Event
+L0556,Kunal,Shah,kunal.shah@brightservices.com,+91-9876543532,Bright Services,Senior Consultant,Media,1-10,Trade Show
+L0620,Varun,Kumar,varun.kumar@smartanalytics.com,+91-9876543494,Smart Analytics,Team Lead,Fintech,201-500,Partner
+L0028,Karan,Khanna,karan.khanna@fusiontech.com,+91-9876543730,Fusion Tech,Product Manager,Manufacturing,1001-5000,Email Campaign
+L0983,Anjali,Nair,anjali.nair@smartanalytics.com,+91-9876543668,Smart Analytics,CEO,SaaS,1001-5000,Trade Show
+L0646,Siddharth,Khanna,siddharth.khanna@quantumsystems.com,+91-9876543898,Quantum Systems,Business Analyst,Logistics,1-10,Website
+L0953,Kavya,Desai,kavya.desai@digitalsystems.com,+91-9876543535,Digital Systems,Finance Manager,Fintech,11-50,Partner
+L0574,Meera,Kumar,meera.kumar@techsolutions.com,+91-9876543485,Tech Solutions,VP Marketing,Insurance,11-50,LinkedIn
+L0557,Neha,Malhotra,neha.malhotra@smartanalytics.com,+91-9876543151,Smart Analytics,Operations Manager,Real Estate,501-1000,Website
+L0682,Neha,Reddy,neha.reddy@omegatech.com,+91-9876543071,Omega Tech,Director Sales,Cybersecurity,201-500,Partner
+L0578,Kunal,Bansal,kunal.bansal@omegatech.com,+91-9876543289,Omega Tech,Product Manager,Insurance,1-10,Partner
+L0796,Sneha,Kumar,sneha.kumar@cybernetworks.com,+91-9876543813,Cyber Networks,Director Operations,Real Estate,1-10,Trade Show
+L0086,Sanjay,Kapoor,sanjay.kapoor@smartanalytics.com,+91-9876543723,Smart Analytics,Director Sales,Fintech,201-500,Trade Show
+L0243,Nikhil,Iyer,nikhil.iyer@thetaanalytics.com,+91-9876543956,Theta Analytics,VP Sales,Retail,5000+,Website
+L0699,Divya,Kapoor,divya.kapoor@alphaenterprises.com,+91-9876543601,Alpha Enterprises,CFO,Education,51-200,Trade Show
+L0839,Sanjay,Patel,sanjay.patel@brightservices.com,+91-9876543795,Bright Services,Business Analyst,Cybersecurity,1001-5000,Website
+L0160,Pooja,Kumar,pooja.kumar@deltasystems.com,+91-9876543922,Delta Systems,Product Manager,Insurance,501-1000,Referral
+L0525,Gaurav,Shah,gaurav.shah@innovlabs.com,+91-9876543022,Innov Labs,VP Marketing,Real Estate,1001-5000,Referral
+L0036,Sanjay,Mehta,sanjay.mehta@fusiontech.com,+91-9876543549,Fusion Tech,Senior Consultant,IT Services,201-500,Referral
+L0541,Sneha,Mehta,sneha.mehta@fusiontech.com,+91-9876543419,Fusion Tech,Account Manager,Retail,1001-5000,Cold Call
+L0171,Amit,Singh,amit.singh@matrixcorp.com,+91-9876543880,Matrix Corp,HR Manager,Media,5000+,Email Campaign
+L0655,Ananya,Desai,ananya.desai@cloudventures.com,+91-9876543386,Cloud Ventures,CTO,Manufacturing,51-200,Cold Call
+L0749,Priya,Desai,priya.desai@gammatechnologies.com,+91-9876543489,Gamma Technologies,Account Manager,SaaS,501-1000,Email Campaign
+L1039,Akash,Agarwal,akash.a@deltasystems.com,+91-9876543185,Delta Systems,Finance Manager,Manufacturing,5000+,Email Campaign
+L1031,Ananya,Iyer,ananya.i@omegatech.com,+91-9876543734,Omega Tech,VP Sales,Insurance,11-50,Trade Show
+L0485,Arjun,Roy,arjun.roy@brightservices.com,+91-9876543791,Bright Services,VP Sales,Real Estate,1001-5000,Website
+L0734,Arjun,Joshi,arjun.joshi@matrixcorp.com,+91-9876543620,Matrix Corp,Director Sales,Consulting,201-500,LinkedIn
+L0900,Akash,Patel,akash.patel@quantumsystems.com,+91-9876543307,Quantum Systems,Project Manager,Education,51-200,LinkedIn
+L0096,Nisha,Patel,nisha.patel@innovlabs.com,+91-9876543772,Innov Labs,CEO,E-commerce,11-50,LinkedIn
+L0564,Rahul,Chopra,rahul.chopra@nextgensolutions.com,+91-9876543275,NextGen Solutions,Business Analyst,Real Estate,1001-5000,Website
+L0241,Tanya,Kapoor,tanya.kapoor@zetaindustries.com,+91-9876543540,Zeta Industries,Business Analyst,IT Services,5000+,Event
+L0743,Ananya,Mehta,ananya.mehta@epsiloncorp.com,+91-9876543754,Epsilon Corp,Director Sales,E-commerce,1001-5000,Event
+L0864,Varun,Verma,varun.verma@matrixcorp.com,+91-9876543703,Matrix Corp,CEO,Cybersecurity,1-10,Partner
+L0575,Sanjay,Joshi,sanjay.joshi@omegatech.com,+91-9876543824,Omega Tech,Product Manager,Retail,1001-5000,Cold Call
+L0691,Nisha,Singh,nisha.singh@alphaenterprises.com,+91-9876543401,Alpha Enterprises,Director Marketing,Logistics,501-1000,Cold Call
+L0461,Rajesh,Kumar,rajesh.kumar@nextgensolutions.com,+91-9876543836,NextGen Solutions,VP Sales,Media,201-500,Referral
+L0892,Vikram,Gupta,vikram.gupta@brightservices.com,+91-9876543337,Bright Services,Project Manager,Manufacturing,501-1000,Event
+L0554,Vikram,Sharma,vikram.sharma@gammatechnologies.com,+91-9876543080,Gamma Technologies,Business Analyst,E-commerce,5000+,Referral
+L0858,Kavya,Khanna,kavya.khanna@smartanalytics.com,+91-9876543211,Smart Analytics,VP Marketing,Real Estate,501-1000,Event
+L1048,Pooja,Kumar,pkumar@deltasystems.com,+91-9876543922,Delta Systems,Product Manager,Insurance,501-1000,Referral
+L0207,Pooja,Chopra,pooja.chopra@gammatechnologies.com,+91-9876543497,Gamma Technologies,Finance Manager,Consulting,201-500,Cold Call
+L0393,Sneha,Bansal,sneha.bansal@omegatech.com,+91-9876543977,Omega Tech,Finance Manager,Manufacturing,5000+,Email Campaign
+L0795,Karan,Iyer,karan.iyer@innovlabs.com,+91-9876543884,Innov Labs,Director Sales,Fintech,11-50,Trade Show
+L0871,Meera,Gupta,meera.gupta@deltasystems.com,+91-9876543467,Delta Systems,CTO,E-commerce,501-1000,Trade Show
+L0398,Kavya,Iyer,kavya.iyer@brightservices.com,+91-9876543104,Bright Services,VP Marketing,Fintech,11-50,Trade Show
+L0767,Riya,Joshi,riya.joshi@omegatech.com,+91-9876543660,Omega Tech,HR Manager,Healthcare,201-500,Email Campaign
+L1032,Sanjay,Sharma,sanjay.s@betainnovations.com,+91-9876543449,Beta Innovations,Director Marketing,Education,11-50,LinkedIn
+L0218,Meera,Desai,meera.desai@fusiontech.com,+91-9876543927,Fusion Tech,Marketing Manager,Cybersecurity,1001-5000,Referral
+L0005,Tanya,Roy,tanya.roy@gammatechnologies.com,+91-9876543348,Gamma Technologies,Director Operations,IT Services,11-50,Email Campaign
+L0769,Nikhil,Kumar,nikhil.kumar@smartanalytics.com,+91-9876543745,Smart Analytics,Director Marketing,Insurance,51-200,Website
+L0643,Riya,Khanna,riya.khanna@fusiontech.com,+91-9876543205,Fusion Tech,Director Sales,Real Estate,1001-5000,Cold Call
+L0462,Aditya,Patel,aditya.patel@matrixcorp.com,+91-9876543392,Matrix Corp,CFO,Retail,5000+,Website
+L0943,Divya,Malhotra,divya.malhotra@thetaanalytics.com,+91-9876543216,Theta Analytics,VP Engineering,Consulting,11-50,Event
+L0613,Nikhil,Sharma,nikhil.sharma@quantumsystems.com,+91-9876543368,Quantum Systems,Sales Manager,Manufacturing,1001-5000,Website
+L0961,Manish,Gupta,manish.gupta@omegatech.com,+91-9876543178,Omega Tech,Operations Manager,Retail,11-50,Partner
+L0726,Ananya,Kapoor,ananya.kapoor@techsolutions.com,+91-9876543823,Tech Solutions,CFO,Media,11-50,Partner
+L0684,Akash,Shah,akash.shah@gammatechnologies.com,+91-9876543172,Gamma Technologies,CEO,Cybersecurity,11-50,Event
+L0099,Tanya,Roy,tanya.roy@quantumsystems.com,+91-9876543110,Quantum Systems,Operations Manager,SaaS,51-200,Trade Show
+L0805,Rahul,Joshi,rahul.joshi@thetaanalytics.com,+91-9876543375,Theta Analytics,Senior Consultant,SaaS,5000+,Trade Show
+L0407,Kavya,Shah,kavya.shah@gammatechnologies.com,+91-9876543835,Gamma Technologies,Finance Manager,IT Services,51-200,Email Campaign
+L0503,Amit,Roy,amit.roy@quantumsystems.com,+91-9876543846,Quantum Systems,Finance Manager,SaaS,11-50,Email Campaign
+L0930,Ishita,Malhotra,ishita.malhotra@matrixcorp.com,+91-9876543635,Matrix Corp,Director Marketing,Education,11-50,Partner
+L0780,Akash,Reddy,akash.reddy@omegatech.com,+91-9876543236,Omega Tech,CEO,Education,51-200,Event
+L0201,Neha,Joshi,neha.joshi@sigmasolutions.com,+91-9876543231,Sigma Solutions,Business Analyst,Media,501-1000,LinkedIn
+L0135,Nikhil,Roy,nikhil.roy@nextgensolutions.com,+91-9876543421,NextGen Solutions,Team Lead,Healthcare,1001-5000,Trade Show
+L0041,Rahul,Malhotra,rahul.malhotra@thetaanalytics.com,+91-9876543677,Theta Analytics,Team Lead,IT Services,11-50,Cold Call
+L1018,Kunal,Mehta,kunal.mehta@epsiloncorp.com,+91-9876543404,Epsilon Corp,Operations Manager,E-commerce,501-1000,LinkedIn
+L0231,Sneha,Patel,sneha.patel@sigmasolutions.com,+91-9876543679,Sigma Solutions,VP Marketing,Cybersecurity,51-200,Trade Show
+L0379,Amit,Singh,amit.singh@techsolutions.com,+91-9876543223,Tech Solutions,Project Manager,Consulting,51-200,LinkedIn
+L0289,Simran,Agarwal,simran.agarwal@innovlabs.com,+91-9876543845,Innov Labs,CEO,Fintech,1-10,Cold Call
+L0419,Divya,Chopra,divya.chopra@sigmasolutions.com,+91-9876543707,Sigma Solutions,Project Manager,IT Services,51-200,LinkedIn
+L0392,Meera,Iyer,meera.iyer@innovlabs.com,+91-9876543100,Innov Labs,Business Analyst,E-commerce,5000+,Website
+L0593,Ishita,Roy,ishita.roy@epsiloncorp.com,+91-9876543804,Epsilon Corp,CFO,IT Services,501-1000,Trade Show
+L0648,Rahul,Joshi,rahul.joshi@smartanalytics.com,+91-9876543859,Smart Analytics,CTO,Retail,5000+,Cold Call
+L0521,Gaurav,Agarwal,gaurav.agarwal@techsolutions.com,+91-9876543720,Tech Solutions,Marketing Manager,Real Estate,501-1000,Referral
+L0065,Nikhil,Patel,nikhil.patel@brightservices.com,+91-9876543359,Bright Services,Project Manager,Manufacturing,1001-5000,Email Campaign
+L0015,Nisha,Nair,nisha.nair@betainnovations.com,+91-9876543905,Beta Innovations,Senior Consultant,IT Services,51-200,Referral
+L0493,Tanya,Mehta,tanya.mehta@thetaanalytics.com,+91-9876543778,Theta Analytics,Director Marketing,IT Services,1-10,Trade Show
+L0380,Varun,Bansal,varun.bansal@epsiloncorp.com,+91-9876543675,Epsilon Corp,Team Lead,SaaS,1-10,Trade Show
+L0188,Kavya,Desai,kavya.desai@matrixcorp.com,+91-9876543968,Matrix Corp,Finance Manager,SaaS,1001-5000,Cold Call
+L0764,Anjali,Patel,anjali.patel@betainnovations.com,+91-9876543628,Beta Innovations,Product Manager,Consulting,1001-5000,Referral
+L0217,Manish,Shah,manish.shah@matrixcorp.com,+91-9876543341,Matrix Corp,VP Engineering,Fintech,501-1000,Website
+L0792,Divya,Chopra,divya.chopra@matrixcorp.com,+91-9876543755,Matrix Corp,CTO,E-commerce,201-500,Website
+L0879,Meera,Kapoor,meera.kapoor@zetaindustries.com,+91-9876543626,Zeta Industries,VP Engineering,Manufacturing,501-1000,Trade Show
+L0338,Divya,Desai,divya.desai@quantumsystems.com,+91-9876543706,Quantum Systems,VP Sales,Insurance,51-200,Email Campaign
+L0720,Riya,Shah,riya.shah@gammatechnologies.com,+91-9876543370,Gamma Technologies,VP Sales,IT Services,201-500,Cold Call
+L0296,Neha,Sharma,neha.sharma@quantumsystems.com,+91-9876543968,Quantum Systems,HR Manager,Media,501-1000,Trade Show
+L1017,Rohan,Shah,rohan.shah@deltasystems.com,+91-9876543408,Delta Systems,Business Analyst,Retail,1-10,LinkedIn
+L0456,Kavya,Chopra,kavya.chopra@techsolutions.com,+91-9876543981,Tech Solutions,Business Analyst,E-commerce,1001-5000,Referral
+L0816,Manish,Verma,manish.verma@thetaanalytics.com,+91-9876543394,Theta Analytics,Director Sales,E-commerce,501-1000,Event
+L0270,Arjun,Desai,arjun.desai@cybernetworks.com,+91-9876543975,Cyber Networks,CEO,IT Services,5000+,Partner
+L0996,Sanjay,Singh,sanjay.singh@techsolutions.com,+91-9876543176,Tech Solutions,CTO,Healthcare,5000+,Website
+L0202,Varun,Joshi,varun.joshi@techsolutions.com,+91-9876543184,Tech Solutions,Director Operations,Retail,5000+,Cold Call
+L0162,Kavya,Reddy,kavya.reddy@fusiontech.com,+91-9876543393,Fusion Tech,Team Lead,Fintech,11-50,Trade Show
+L0730,Rajesh,Mehta,rajesh.mehta@zetaindustries.com,+91-9876543292,Zeta Industries,Director Sales,SaaS,5000+,Event
+L0402,Ishita,Desai,ishita.desai@cybernetworks.com,+91-9876543701,Cyber Networks,HR Manager,IT Services,11-50,Cold Call
+L0703,Ananya,Iyer,ananya.iyer@omegatech.com,+91-9876543734,Omega Tech,VP Sales,Insurance,11-50,Trade Show
+L0566,Simran,Sharma,simran.sharma@zetaindustries.com,+91-9876543810,Zeta Industries,VP Engineering,Fintech,51-200,Trade Show
+L1022,Sanjay,Nair,sanjay.nair@omegatech.com,+91-9876543870,Omega Tech,CFO,Consulting,201-500,Trade Show
+L1026,Ananya,Kapoor,ananya.kapoor@techsolutions.com,+91-9876543233,Tech Solutions,Director Marketing,Retail,11-50,Referral
+L0206,Anjali,Sharma,anjali.sharma@smartanalytics.com,+91-9876543161,Smart Analytics,Finance Manager,SaaS,1001-5000,Website
+L0035,Kavya,Sharma,kavya.sharma@cloudventures.com,+91-9876543062,Cloud Ventures,HR Manager,Retail,51-200,Website
+L0776,Meera,Khanna,meera.khanna@quantumsystems.com,+91-9876543930,Quantum Systems,Marketing Manager,Consulting,501-1000,Event
+L0509,Amit,Mehta,amit.mehta@deltasystems.com,+91-9876543828,Delta Systems,VP Marketing,Fintech,5000+,Email Campaign
+L1107,Siddharth,Roy,siddharth.roy@omegatech.com,+91-9876543582,Omega Tech Ltd,Product Manager,Manufacturing,501-1000,LinkedIn
+L0092,Gaurav,Kapoor,gaurav.kapoor@sigmasolutions.com,+91-9876543577,Sigma Solutions,CEO,Fintech,1001-5000,Trade Show
+L0898,Manish,Mehta,manish.mehta@omegatech.com,+91-9876543424,Omega Tech,Business Analyst,SaaS,51-200,Email Campaign
+L0565,Karan,Chopra,karan.chopra@fusiontech.com,+91-9876543935,Fusion Tech,Business Analyst,Retail,201-500,Email Campaign
+L0777,Akash,Patel,akash.patel@deltasystems.com,+91-9876543315,Delta Systems,Marketing Manager,Manufacturing,51-200,Referral
+L0242,Akash,Bansal,akash.bansal@smartanalytics.com,+91-9876543893,Smart Analytics,Director Operations,SaaS,1001-5000,Partner
+L0014,Pooja,Patel,pooja.patel@fusiontech.com,+91-9876543935,Fusion Tech,Operations Manager,Retail,51-200,Event
+L0316,Meera,Kapoor,meera.kapoor@nextgensolutions.com,+91-9876543979,NextGen Solutions,VP Engineering,Consulting,501-1000,Email Campaign
+L0601,Manish,Kumar,manish.kumar@sigmasolutions.com,+91-9876543516,Sigma Solutions,VP Engineering,Fintech,51-200,LinkedIn
+L0388,Pooja,Sharma,pooja.sharma@digitalsystems.com,+91-9876543700,Digital Systems,Director Operations,Education,501-1000,LinkedIn
+L0167,Rahul,Chopra,rahul.chopra@innovlabs.com,+91-9876543593,Innov Labs,Marketing Manager,Retail,11-50,Website
+L0841,Varun,Kumar,varun.kumar@quantumsystems.com,+91-9876543173,Quantum Systems,Marketing Manager,Real Estate,5000+,Partner
+L0021,Neha,Reddy,neha.reddy@gammatechnologies.com,+91-9876543161,Gamma Technologies,Senior Consultant,SaaS,1001-5000,Cold Call
+L0647,Rajesh,Kapoor,rajesh.kapoor@smartanalytics.com,+91-9876543054,Smart Analytics,CTO,E-commerce,51-200,Referral
+L0832,Manish,Bansal,manish.bansal@techsolutions.com,+91-9876543649,Tech Solutions,HR Manager,SaaS,51-200,LinkedIn
+L0563,Rahul,Joshi,rahul.joshi@epsiloncorp.com,+91-9876543878,Epsilon Corp,VP Sales,Media,11-50,Referral
+L1094,Karan,Bansal,karan.bansal@brightservices.com,+91-9876543778,Bright Services,Senior Consultant,Insurance,1-10,Website
+L0687,Kunal,Gupta,kunal.gupta@cybernetworks.com,+91-9876543661,Cyber Networks,Finance Manager,Fintech,5000+,Cold Call
+L0958,Ishita,Roy,ishita.roy@sigmasolutions.com,+91-9876543052,Sigma Solutions,Product Manager,Logistics,1001-5000,LinkedIn
+L0190,Aditya,Chopra,aditya.chopra@digitalsystems.com,+91-9876543920,Digital Systems,CFO,Cybersecurity,501-1000,Referral
+L0976,Anjali,Gupta,anjali.gupta@cybernetworks.com,+91-9876543259,Cyber Networks,Product Manager,Consulting,1001-5000,Website
+L0700,Gaurav,Verma,gaurav.verma@zetaindustries.com,+91-9876543415,Zeta Industries,Marketing Manager,Media,5000+,Email Campaign
+L0511,Aditya,Kumar,aditya.kumar@betainnovations.com,+91-9876543699,Beta Innovations,Business Analyst,IT Services,51-200,Event
+L1083,Vikram,Singh,vikram.singh@sigmasolutions.com,+91-9876543911,Sigma Solutions,Product Manager,Fintech,11-50,Website
+L0475,Meera,Reddy,meera.reddy@zetaindustries.com,+91-9876543785,Zeta Industries,Business Analyst,Manufacturing,1001-5000,Trade Show
+L0857,Rohan,Verma,rohan.verma@sigmasolutions.com,+91-9876543156,Sigma Solutions,Business Analyst,Healthcare,501-1000,Email Campaign
+L0748,Ananya,Desai,ananya.desai@brightservices.com,+91-9876543407,Bright Services,Director Marketing,Logistics,501-1000,Referral
+L0253,Nisha,Desai,nisha.desai@sigmasolutions.com,+91-9876543247,Sigma Solutions,VP Marketing,Healthcare,201-500,LinkedIn
+L0022,Meera,Roy,meera.roy@zetaindustries.com,+91-9876543934,Zeta Industries,VP Sales,Media,1001-5000,Cold Call
+L0460,Karan,Nair,karan.nair@digitalsystems.com,+91-9876543135,Digital Systems,Operations Manager,E-commerce,501-1000,Partner
+L0277,Kavya,Roy,kavya.roy@deltasystems.com,+91-9876543089,Delta Systems,Sales Manager,Insurance,51-200,Website
+L0956,Ishita,Shah,ishita.shah@gammatechnologies.com,+91-9876543361,Gamma Technologies,Product Manager,Healthcare,11-50,LinkedIn
+L0386,Priya,Kumar,priya.kumar@cybernetworks.com,+91-9876543084,Cyber Networks,Team Lead,Media,201-500,Email Campaign
+L0806,Manish,Roy,manish.roy@techsolutions.com,+91-9876543634,Tech Solutions,Marketing Manager,Logistics,501-1000,Event
+L0344,Amit,Desai,amit.desai@deltasystems.com,+91-9876543828,Delta Systems,CTO,Consulting,11-50,Trade Show
+L0770,Karan,Roy,karan.roy@betainnovations.com,+91-9876543105,Beta Innovations,VP Sales,Fintech,201-500,LinkedIn
+L0131,Manish,Shah,manish.shah@omegatech.com,+91-9876543256,Omega Tech,CEO,Fintech,11-50,LinkedIn
+L0872,Manish,Sharma,manish.sharma@thetaanalytics.com,+91-9876543396,Theta Analytics,Project Manager,Logistics,1001-5000,LinkedIn
+L0088,Divya,Agarwal,divya.agarwal@techsolutions.com,+91-9876543877,Tech Solutions,Operations Manager,Manufacturing,201-500,LinkedIn
+L0331,Anjali,Singh,anjali.singh@zetaindustries.com,+91-9876543479,Zeta Industries,Director Operations,E-commerce,5000+,Website
+L0467,Ishita,Kapoor,ishita.kapoor@alphaenterprises.com,+91-9876543986,Alpha Enterprises,Business Analyst,Cybersecurity,5000+,Referral
+L0122,Kavya,Chopra,kavya.chopra@quantumsystems.com,+91-9876543880,Quantum Systems,Operations Manager,Manufacturing,51-200,LinkedIn
+L1045,Aditya,Iyer,aditya.i@zetaindustries.com,+91-9876543529,Zeta Industries,Director Operations,IT Services,51-200,Referral
+L1096,Meera,Singh,meera.singh@matrixcorp.com,+91-9876543160,Matrix Corp,CEO,Logistics,1-10,Cold Call
+L0861,Ananya,Shah,ananya.shah@smartanalytics.com,+91-9876543744,Smart Analytics,CEO,Logistics,51-200,Trade Show
