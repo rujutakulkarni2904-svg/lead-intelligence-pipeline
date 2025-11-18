@@ -29,9 +29,9 @@ st.divider()
 with st.sidebar:
     st.header("⚙️ Configuration")
     api_key = st.text_input(
-        "Enter OpenAI API Key",
+        "Enter Groq API Key",
         type="password",
-        help="Get your API key from platform.openai.com/api-keys"
+        help="Get your API key from console.groq.com (100% FREE)"
     )
     
     st.divider()
