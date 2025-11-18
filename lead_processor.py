@@ -12,7 +12,7 @@ def process_leads(df: pd.DataFrame, api_key: str) -> Dict:
         prompt = "You are an expert B2B sales lead analyst. Analyze these leads and provide: 1. LEAD SCORING (0-10 scale): 9-10 = Hot (C-level executives), 7-8 = Warm (Directors/VPs), 5-6 = Cold (Managers), Below 5 = Not qualified. 2. DUPLICATE DETECTION: Identify duplicate contacts. 3. ACTION RECOMMENDATIONS. Return ONLY valid JSON with keys: hot_leads, warm_leads, cold_leads, not_qualified, duplicates_found, time_saved_hours, annual_roi_inr, lead_details (array with lead_id, score, action, reason, is_duplicate). Here are the leads: " + leads_summary
         
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="llama-3.1-70b-versatile",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.7,
             max_tokens=2000
